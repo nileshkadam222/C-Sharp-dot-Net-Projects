@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E0CE58E2-863D-48C4-A803-672D676FEB68}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.frmemployeedetails</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>pizza hut</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>pizza hut.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>pizza hut.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Deduction.designer.vb">
+      <DependentUpon>Deduction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Deduction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbill.designer.vb">
+      <DependentUpon>frmbill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmbill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmconform.Designer.vb">
+      <DependentUpon>frmconform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmconform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcustomerpurchessing.Designer.vb">
+      <DependentUpon>frmcustomerpurchessing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcustomerpurchessing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeAttendence.designer.vb">
+      <DependentUpon>frmEmployeeAttendence.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeAttendence.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmemployeedetail.Designer.vb">
+      <DependentUpon>frmemployeedetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmemployeedetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcustomerdetails1.Designer.vb">
+      <DependentUpon>frmcustomerdetails1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcustomerdetails1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdamageitem.Designer.vb">
+      <DependentUpon>frmdamageitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdamageitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmemployeeloginform.Designer.vb">
+      <DependentUpon>frmemployeeloginform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmemployeeloginform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMdiParent.designer.vb">
+      <DependentUpon>frmMdiParent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMdiParent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpaymentslip.designer.vb">
+      <DependentUpon>frmpaymentslip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpaymentslip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmproductgroupprice.designer.vb">
+      <DependentUpon>frmproductgroupprice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmproductgroupprice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmreleseitem.Designer.vb">
+      <DependentUpon>frmreleseitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmreleseitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpurchaseitem.Designer.vb">
+      <DependentUpon>frmpurchaseitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpurchaseitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pizza_hut1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pizza_hut1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="searchveiwsold.Designer.vb">
+      <DependentUpon>searchveiwsold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="searchveiwsold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaddpacking.Designer.vb">
+      <DependentUpon>frmaddpacking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmaddpacking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsuppiler.Designer.vb">
+      <DependentUpon>frmsuppiler.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsuppiler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashscreen.Designer.vb">
+      <DependentUpon>splashscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="splashscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmextratoppinglist.Designer.vb">
+      <DependentUpon>frmextratoppinglist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmextratoppinglist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmviewsold.Designer.vb">
+      <DependentUpon>frmviewsold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmviewsold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmselectcategory.Designer.vb">
+      <DependentUpon>frmselectcategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmselectcategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmportion.Designer.vb">
+      <DependentUpon>frmportion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmportion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminventorydetail.Designer.vb">
+      <DependentUpon>frminventorydetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frminventorydetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmitem.Designer.vb">
+      <DependentUpon>frmitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaddingredients.Designer.vb">
+      <DependentUpon>frmaddingredients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmaddingredients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmproductprice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmproductprice.Designer.vb">
+      <DependentUpon>frmproductprice.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Deduction.resx">
+      <DependentUpon>Deduction.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbill.resx">
+      <DependentUpon>frmbill.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmconform.resx">
+      <DependentUpon>frmconform.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcustomerpurchessing.resx">
+      <DependentUpon>frmcustomerpurchessing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeAttendence.resx">
+      <DependentUpon>frmEmployeeAttendence.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmemployeedetail.resx">
+      <DependentUpon>frmemployeedetail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcustomerdetails1.resx">
+      <DependentUpon>frmcustomerdetails1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdamageitem.resx">
+      <DependentUpon>frmdamageitem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmemployeeloginform.resx">
+      <DependentUpon>frmemployeeloginform.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMdiParent.resx">
+      <DependentUpon>frmMdiParent.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpaymentslip.resx">
+      <DependentUpon>frmpaymentslip.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmproductgroupprice.resx">
+      <DependentUpon>frmproductgroupprice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmreleseitem.resx">
+      <DependentUpon>frmreleseitem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpurchaseitem.resx">
+      <DependentUpon>frmpurchaseitem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchveiwsold.resx">
+      <DependentUpon>searchveiwsold.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaddpacking.resx">
+      <DependentUpon>frmaddpacking.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsuppiler.resx">
+      <DependentUpon>frmsuppiler.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splashscreen.resx">
+      <DependentUpon>splashscreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmextratoppinglist.resx">
+      <DependentUpon>frmextratoppinglist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmviewsold.resx">
+      <DependentUpon>frmviewsold.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmselectcategory.resx">
+      <DependentUpon>frmselectcategory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmportion.resx">
+      <DependentUpon>frmportion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminventorydetail.resx">
+      <DependentUpon>frminventorydetail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmitem.resx">
+      <DependentUpon>frmitem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaddingredients.resx">
+      <DependentUpon>frmaddingredients.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmproductprice.resx">
+      <DependentUpon>frmproductprice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="pizza_hut1DataSet.xsc">
+      <DependentUpon>pizza_hut1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pizza_hut1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pizza_hut1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pizza_hut1DataSet.xss">
+      <DependentUpon>pizza_hut1DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

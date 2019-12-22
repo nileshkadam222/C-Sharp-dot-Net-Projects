@@ -1,0 +1,115 @@
+F:\aarti\pizza hut\obj\Release\ResolveAssemblyReference.cache
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmadd.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmlogin.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmsuppiler.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.splashscreen.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmextratoppinglist.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmviewsold.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.Form4.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmportion.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.Form2.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmitem.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmaddingredients.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmproductprice.resources
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.Resources.resources
+F:\aarti\pizza hut\obj\Release\pizza hut.vbproj.GenerateResource.Cache
+F:\aarti\pizza hut\bin\Release\pizza hut.exe
+F:\aarti\pizza hut\bin\Release\pizza hut.pdb
+F:\aarti\pizza hut\bin\Release\pizza hut.xml
+F:\aarti\pizza hut\obj\Release\pizza hut.exe
+F:\aarti\pizza hut\obj\Release\pizza hut.xml
+F:\aarti\pizza hut\obj\Release\pizza hut.pdb
+F:\aarti\pizza hut\obj\Release\WindowsApplication1.frmselectcategory.resources
+E:\aarti\pizza hut\bin\Release\pizza hut.exe
+E:\aarti\pizza hut\bin\Release\pizza hut.pdb
+E:\aarti\pizza hut\bin\Release\pizza hut.xml
+E:\aarti\pizza hut\obj\Release\ResolveAssemblyReference.cache
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmadd.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmlogin.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmsuppiler.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.splashscreen.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmextratoppinglist.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmviewsold.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmselectcategory.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmportion.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frminventorydetails.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmitem.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmaddingredients.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmproductprice.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.Resources.resources
+E:\aarti\pizza hut\obj\Release\pizza hut.vbproj.GenerateResource.Cache
+E:\aarti\pizza hut\obj\Release\pizza hut.exe
+E:\aarti\pizza hut\obj\Release\pizza hut.xml
+E:\aarti\pizza hut\obj\Release\pizza hut.pdb
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmcustomerdetails1.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmdamageitem.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmreleseditem.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmpurchesitem.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.searchveiwsold.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmemployeedetails.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.frmMdiParent.resources
+E:\aarti\pizza hut\obj\Release\WindowsApplication1.MDIParentform.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmbill.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmemployeedetails.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmcustomerdetails1.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmdamageitem.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmreleseditem.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmpurchesitem.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmMDIParent.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.searchveiwsold.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmadd.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmlogin.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmsuppiler.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.splashscreen.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmextratoppinglist.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmviewsold.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmselectcategory.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmportion.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frminventorydetails.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmitem.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmaddingredients.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.frmproductprice.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\pizza hut.vbproj.GenerateResource.Cache
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\pizza hut.exe
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\pizza hut.xml
+C:\Documents and Settings\supriya\Desktop\aarti\pizza hut\obj\Release\pizza hut.pdb
+H:\aarti\pizza hut\obj\Release\ResolveAssemblyReference.cache
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.Bill_Report.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.CustomerDetails_Report.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.Deduction.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.Employeepaymentslip_report.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.Form1.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmbill.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmconform.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmcustomerpurchessing.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmEmployeeAttendence.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmemployeedetails.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmcustomerdetails1.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmdamageitem.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmemployeeloginform.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmMDIParent.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmPaymentSlip.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmproductgroupprice.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmreleseditem.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmpurchesitem.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.searchveiwsold.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmadd.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmlogin.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmsuppiler.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.splashscreen.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmextratoppinglist.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmviewsold.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmselectcategory.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmportion.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frminventorydetails.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmitem.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmaddingredients.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.frmproductprice.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.Resources.resources
+H:\aarti\pizza hut\obj\Release\WindowsApplication1.Suppiler_Report.resources
+H:\aarti\pizza hut\obj\Release\pizza hut.vbproj.GenerateResource.Cache
+H:\aarti\pizza hut\obj\Release\pizza hut.exe
+H:\aarti\pizza hut\obj\Release\pizza hut.xml
+H:\aarti\pizza hut\obj\Release\pizza hut.pdb

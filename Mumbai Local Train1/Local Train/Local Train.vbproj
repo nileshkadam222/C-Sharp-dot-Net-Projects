@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF75A3C6-429A-49DC-91E6-E79F06BE069B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Local_Train.My.MyApplication</StartupObject>
+    <RootNamespace>Local_Train</RootNamespace>
+    <AssemblyName>Local Train</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/Local Train/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Local Train.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Local Train.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAboutSoft.Designer.vb">
+      <DependentUpon>frmAboutSoft.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutSoft.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmForgotpassword.Designer.vb">
+      <DependentUpon>frmForgotpassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmForgotpassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmadduser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmadduser.Designer.vb">
+      <DependentUpon>frmadduser.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCentral_Pass.designer.vb">
+      <DependentUpon>frmCentral_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCentral_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCentral_Ticket.designer.vb">
+      <DependentUpon>frmCentral_Ticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCentral_Ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangepassword.designer.vb">
+      <DependentUpon>frmChangepassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangepassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdeleteuser.designer.vb">
+      <DependentUpon>frmdeleteuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdeleteuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHarbour_Pass.designer.vb">
+      <DependentUpon>frmHarbour_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHarbour_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHarbour_Ticket.designer.vb">
+      <DependentUpon>frmHarbour_Ticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHarbour_Ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMap.designer.vb">
+      <DependentUpon>frmMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch_Pass.Designer.vb">
+      <DependentUpon>frmSearch_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch_Ticket.Designer.vb">
+      <DependentUpon>frmSearch_Ticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch_Ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWestern_Pass.designer.vb">
+      <DependentUpon>frmWestern_Pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWestern_Pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWestern_Ticket.designer.vb">
+      <DependentUpon>frmWestern_Ticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWestern_Ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Local_Train_DataDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Local_Train_DataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report\frmPass_Viewer.Designer.vb">
+      <DependentUpon>frmPass_Viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmPass_Viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmTicket_Viewer.Designer.vb">
+      <DependentUpon>frmTicket_Viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmTicket_Viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Pass_Report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pass_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Splash Screen.designer.vb">
+      <DependentUpon>Splash Screen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash Screen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Ticket_Report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ticket_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Validation.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAboutSoft.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAboutSoft.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForgotpassword.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmForgotpassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmadduser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmadduser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCentral_Pass.resx">
+      <DependentUpon>frmCentral_Pass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCentral_Ticket.resx">
+      <DependentUpon>frmCentral_Ticket.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangepassword.resx">
+      <DependentUpon>frmChangepassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdeleteuser.resx">
+      <DependentUpon>frmdeleteuser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHarbour_Pass.resx">
+      <DependentUpon>frmHarbour_Pass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHarbour_Ticket.resx">
+      <DependentUpon>frmHarbour_Ticket.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMap.resx">
+      <DependentUpon>frmMap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch_Pass.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSearch_Pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch_Ticket.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSearch_Ticket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWestern_Pass.resx">
+      <DependentUpon>frmWestern_Pass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWestern_Ticket.resx">
+      <DependentUpon>frmWestern_Ticket.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmPass_Viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPass_Viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmTicket_Viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTicket_Viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Pass_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Pass_Report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Screen.resx">
+      <DependentUpon>Splash Screen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Ticket_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Ticket_Report.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mumbai_Train.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Local Train_Data.MDF">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Local Train_Data_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Local Train_Data.MDF</DependentUpon>
+    </Content>
+    <Content Include="Resources\main.jpg" />
+    <None Include="app.config" />
+    <None Include="Local_Train_DataDataSet.xsc">
+      <DependentUpon>Local_Train_DataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Local_Train_DataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Local_Train_DataDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Local_Train_DataDataSet.xss">
+      <DependentUpon>Local_Train_DataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\main1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

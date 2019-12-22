@@ -1,0 +1,20 @@
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+C:\siddhi\Window Projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+D:\projects\Hospital Management\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+D:\projects\Hospital Management\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+D:\projects\Hospital Management\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+D:\projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+D:\projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+D:\projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+D:\projects\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.pdb

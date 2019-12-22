@@ -1,0 +1,241 @@
+C:\naina karate\jinesh\bin\Debug\karate1.mdb
+C:\naina karate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.about.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+C:\naina karate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+C:\naina karate\jinesh\obj\Debug\karate.vbproj.GenerateResource.Cache
+C:\naina karate\jinesh\bin\Debug\karate.exe.config
+C:\naina karate\jinesh\bin\Debug\karate.exe
+C:\naina karate\jinesh\bin\Debug\karate.pdb
+C:\naina karate\jinesh\bin\Debug\karate.xml
+C:\naina karate\jinesh\obj\Debug\karate.exe
+C:\naina karate\jinesh\obj\Debug\karate.xml
+C:\naina karate\jinesh\obj\Debug\karate.pdb
+C:\nainakarate1\jinesh\bin\Debug\karate.exe.config
+C:\nainakarate1\jinesh\obj\Debug\karate.exe
+C:\nainakarate1\jinesh\obj\Debug\karate.xml
+C:\nainakarate1\jinesh\obj\Debug\karate.pdb
+C:\nainakarate\jinesh\bin\Debug\karate.exe.config
+C:\nainakarate\jinesh\obj\Debug\karate.exe
+C:\nainakarate\jinesh\obj\Debug\karate.xml
+C:\nainakarate\jinesh\obj\Debug\karate.pdb
+C:\nainakarate\jinesh\bin\Debug\karate1.mdb
+C:\nainakarate\jinesh\bin\Debug\karate.exe
+C:\nainakarate\jinesh\bin\Debug\karate.pdb
+C:\nainakarate\jinesh\bin\Debug\karate.xml
+C:\nainakarate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.about.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+C:\nainakarate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+C:\nainakarate\jinesh\obj\Debug\karate.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\New Folder\nainakarate\jinesh\bin\Debug\karate.exe.config
+C:\Documents and Settings\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\karate.exe
+C:\Documents and Settings\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\karate.xml
+C:\Documents and Settings\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\karate.pdb
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\bin\Debug\karate1.mdb
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\bin\Debug\karate.exe
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\bin\Debug\karate.pdb
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\bin\Debug\karate.xml
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.about.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+C:\DOCUMENTS AND SETTINGS\Administrator\Desktop\New Folder\nainakarate\jinesh\obj\Debug\karate.vbproj.GenerateResource.Cache
+C:\Documents and Settings\asd\Desktop\naina\nainakarate\jinesh\bin\Debug\karate.exe.config
+C:\Documents and Settings\asd\Desktop\naina\nainakarate\jinesh\obj\Debug\karate.exe
+C:\Documents and Settings\asd\Desktop\naina\nainakarate\jinesh\obj\Debug\karate.xml
+C:\Documents and Settings\asd\Desktop\naina\nainakarate\jinesh\obj\Debug\karate.pdb
+H:\Sachin\sachinkarate\jinesh\bin\Debug\karate.exe.config
+H:\Sachin\sachinkarate\jinesh\obj\Debug\karate.exe
+H:\Sachin\sachinkarate\jinesh\obj\Debug\karate.xml
+H:\Sachin\sachinkarate\jinesh\obj\Debug\karate.pdb
+H:\Sachin\sachinkarate\jinesh\bin\Debug\karate1.mdb
+H:\Sachin\sachinkarate\jinesh\bin\Debug\karate.exe
+H:\Sachin\sachinkarate\jinesh\bin\Debug\karate.pdb
+H:\Sachin\sachinkarate\jinesh\bin\Debug\karate.xml
+H:\Sachin\sachinkarate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.about.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+H:\Sachin\sachinkarate\jinesh\obj\Debug\Karate.vbproj.GenerateResource.Cache
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate1.mdb
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.pdb
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.xml
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.about.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+D:\UMFH12\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\Karate.vbproj.GenerateResource.Cache
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate1.mdb
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.pdb
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.xml
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.about.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+K:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\Karate.vbproj.GenerateResource.Cache
+I:\PROJECTS\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+I:\PROJECTS\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+I:\PROJECTS\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+I:\PROJECTS\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate1.mdb
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.pdb
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.xml
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\ResolveAssemblyReference.cache
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.About_us.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.about.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Applicant.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.applist.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Assign_batch.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.assignbatchlist.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Batch.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.batchlist.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.courselist.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Courses.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Login.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Mainform.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Resources.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SEARCH1.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Search2.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.SplashScreen1.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Stage_show_details.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.stageshowlist.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.trainer_list.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\WindowsApplication1.Trainer.resources
+G:\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\Karate.vbproj.GenerateResource.Cache
+E:\New folder (2)\SACHIN\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+E:\New folder (2)\SACHIN\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+E:\New folder (2)\SACHIN\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+E:\New folder (2)\SACHIN\tycs-2012\15980\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb
+H:\Karate Management\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+H:\Karate Management\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+H:\Karate Management\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+H:\Karate Management\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb
+D:\study\projects\NONRUNABLE\Karate Management\Karate Management System\sachinkarate\jinesh\bin\Debug\karate.exe.config
+D:\study\projects\NONRUNABLE\Karate Management\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.exe
+D:\study\projects\NONRUNABLE\Karate Management\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.xml
+D:\study\projects\NONRUNABLE\Karate Management\Karate Management System\sachinkarate\jinesh\obj\Debug\karate.pdb

@@ -1,0 +1,15 @@
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\bin\Release\EmployeeProfileManagement.exe
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\bin\Release\EmployeeProfileManagement.pdb
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\ResolveAssemblyReference.cache
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmAdminMdi.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmLogin.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmUserMdi.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.Properties.Resources.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.csproj.GenerateResource.Cache
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.exe
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.pdb
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmAddEmployee.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmAttendence.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmEmployeeSearch.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmSalarySlip.resources
+F:\ibition\dot net\EmployeeProfileManagement\EmployeeProfileManagement\obj\Release\EmployeeProfileManagement.frmUpdateEmployee.resources

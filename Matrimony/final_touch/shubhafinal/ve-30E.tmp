@@ -1,0 +1,477 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+using System.Collections;
+
+namespace shubhafinal
+{
+    public partial class search : System.Web.UI.Page
+    {
+        static SqlConnection connection;
+        SqlCommand command = new SqlCommand();
+        SqlCommand command1 = new SqlCommand();
+        SqlDataReader reader;
+        DBConnection Objdbconn = new DBConnection();
+        string queryString;
+        string strapplid;
+        int applid, religionid, heightfrom, agefrom;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            strapplid = Request.QueryString["applid"];
+            applid = Convert.ToInt32(strapplid);
+            HyperLink1.NavigateUrl = "home.aspx?applid=" + Request.QueryString["applid"];
+            HyperLink2.NavigateUrl = "personaldetails.aspx?applid=" + Request.QueryString["applid"];
+            HyperLink3.NavigateUrl = "search.aspx?applid=" + Request.QueryString["applid"];
+            HyperLink4.NavigateUrl = "upgrade.aspx?applid=" + Request.QueryString["applid"];
+            HyperLink5.NavigateUrl = "message.aspx?applid=" + Request.QueryString["applid"];
+            HyperLink6.NavigateUrl = "help.aspx?applid=" + Request.QueryString["applid"];
+            if (!IsPostBack)
+            {
+                Objdbconn.ConnectionClose();
+                connection = Objdbconn.GetConnectionInfo();
+                connection.Open();
+
+                FillHeightFrom();
+                FillAgeFrom();
+               
+                FillReligion();
+
+                queryString = "SELECT * FROM tblmangalikstatus";
+                command.Connection = connection;
+                command.CommandTimeout = 15;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+
+                reader = command.ExecuteReader();
+                cmbmangalik.DataSource = reader;
+                cmbmangalik.DataValueField = "mangalikid";
+                cmbmangalik.DataTextField = "mangalikstatus";
+                cmbmangalik.DataBind();
+                cmbmangalik.Items.Insert(0, "Select");
+                reader.Close();
+
+                queryString = "SELECT * FROM tblAcademic";
+                command.Connection = connection;
+                command.CommandTimeout = 15;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+
+                reader = command.ExecuteReader();
+                cmbedu.DataSource = reader;
+                cmbedu.DataValueField = "acdemicid";
+                cmbedu.DataTextField = "academicdesc";
+                cmbedu.DataBind();
+                cmbedu.Items.Insert(0, "Select");
+                reader.Close();
+
+
+                queryString = "SELECT * FROM tbloccupationmaster";
+                command.Connection = connection;
+                command.CommandTimeout = 15;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+
+                reader = command.ExecuteReader();
+                cmbocc.DataSource = reader;
+                cmbocc.DataValueField = "OccupationID";
+                cmbocc.DataTextField = "OccupationDesc";
+                cmbocc.DataBind();
+                cmbocc.Items.Insert(0, "Select");
+                reader.Close();
+
+               
+
+
+
+
+                queryString = "SELECT * FROM tblIncome";
+                command.Connection = connection;
+                command.CommandTimeout = 15;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+
+                reader = command.ExecuteReader();
+                cmbincome.DataSource = reader;
+                cmbincome.DataValueField = "incomeID";
+                cmbincome.DataTextField = "incomeDesc";
+                cmbincome.DataBind();   
+                cmbincome.Items.Insert(0, "Select");
+                reader.Close();
+
+
+            }
+        }
+        private void FillAgeFrom()
+        {
+
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = command.CommandText = "Select * from tblAge ";
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbagefrm.DataSource = objDs.Tables[0];
+            cmbagefrm.DataValueField = "ageID";
+            cmbagefrm.DataTextField = "ageDesc";
+            //cmbcountry.DataTextField = "Country";
+            //cmbcountry.DataValueField = "CountryID";
+            cmbagefrm.DataBind();
+            cmbagefrm.Items.Insert(0, "Select");
+            cmbagefrm.Enabled = true;
+
+
+        }
+        public void Agetto(int agefrom)
+        {
+            cmbheightto.Items.Clear();
+            agefrom = Convert.ToInt32(cmbagefrm.SelectedItem.Value);
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = "Select * from tblAge where ageID >" + agefrom;
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbageto.DataSource = objDs.Tables[0];
+            cmbageto.DataValueField = "ageID";
+            cmbageto.DataTextField = "ageDesc";
+            //cmbstate.DataTextField = "State";
+            //cmbstate.DataValueField = "StateID";
+            cmbageto.DataBind();
+
+
+
+            //cmbsubcaste.Enabled = true;
+
+        }
+
+        protected void lnkrel_Click(object sender, EventArgs e)
+        {
+            if (cmbreligion.Visible == true)
+                cmbreligion.Visible = false;
+            else
+                cmbreligion.Visible = true;
+        }
+
+        protected void lnkcaste_Click(object sender, EventArgs e)
+        {
+            if (cmbcaste.Visible == true)
+                cmbcaste.Visible = false;
+            else
+                cmbcaste.Visible = true;
+        }
+
+        protected void lnkage_Click(object sender, EventArgs e)
+        {
+            if (cmbagefrm.Visible == true || cmbageto.Visible == true|| lblage.Visible == true)
+            {
+            cmbagefrm.Visible =false;
+            cmbageto.Visible = false;
+            lblage.Visible =false;
+            }
+
+            else
+            {
+                cmbagefrm.Visible =true;
+                cmbageto.Visible = true;
+                lblage.Visible =true;
+            
+            }
+                
+        }
+
+        protected void lnkheight_Click(object sender, EventArgs e)
+        {
+
+            if (cmbheightfrm.Visible == true || cmbheightto.Visible == true || lblheight.Visible == true)
+            {
+                cmbheightfrm.Visible = false;
+                cmbheightto.Visible = false;
+                lblheight.Visible = false;
+            }
+
+            else
+            {
+                cmbheightfrm.Visible = true;
+                cmbheightto.Visible = true;
+                lblheight.Visible = true;
+
+            }
+        }
+
+        protected void lnkmangalik_Click(object sender, EventArgs e)
+        {
+            if (cmbmangalik.Visible == true)
+                cmbmangalik.Visible = false;
+            else
+                cmbmangalik.Visible = true;
+        }
+
+       
+
+        protected void lnkedu_Click(object sender, EventArgs e)
+        {
+            if (cmbedu.Visible == true)
+                cmbedu.Visible = false;
+            else
+                cmbedu.Visible = true;
+        }
+
+        protected void lnkemp_Click(object sender, EventArgs e)
+        {
+
+            if (cmbocc.Visible == true)
+                cmbocc.Visible = false;
+            else
+                cmbocc.Visible = true;
+
+        }
+
+        protected void lnkincome_Click(object sender, EventArgs e)
+        {
+
+            if (cmbincome.Visible == true)
+                cmbincome.Visible = false;
+            else
+                cmbincome.Visible = true;
+        }
+
+        private void FillReligion()
+        {
+
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = command.CommandText = "Select * from tblreligion ";
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbreligion.DataSource = objDs.Tables[0];
+            cmbreligion.DataValueField = "religionid";
+            cmbreligion.DataTextField = "religiondesc";
+            //cmbcountry.DataTextField = "Country";
+            //cmbcountry.DataValueField = "CountryID";
+            cmbreligion.DataBind();
+            cmbreligion.Items.Insert(0, "Select");
+            cmbcaste.Enabled = true;
+
+
+        }
+
+        private void FillCaste(int ApplicantReligionID)
+        {
+            cmbcaste.Items.Clear();
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = "Select * from tblcaste where religionid =@religionid";
+            command.Parameters.AddWithValue("@religionid", religionid);
+
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbcaste.DataSource = objDs.Tables[0];
+            cmbcaste.DataValueField = "casteid";
+            cmbcaste.DataTextField = "castedesc";
+            //cmbstate.DataTextField = "State";
+            //cmbstate.DataValueField = "StateID";
+            cmbcaste.DataBind();
+            if (cmbcaste.Items.Count < 1)
+            {
+                cmbcaste.Items.Insert(0, "NA");
+                //cmbsubcaste.Items.Insert(0, "NA");
+            }
+            else
+                cmbcaste.Items.Insert(0, "Select");
+
+            //cmbsubcaste.Enabled = true;
+        }
+
+        protected void cmbreligion_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            cmbcaste.Items.Clear();
+            //cmbsubcaste.Items.Clear();
+
+
+            if (cmbreligion.SelectedItem.Value == "Select")
+            {
+                cmbcaste.Enabled = false;
+                //cmbsubcaste.Enabled = false;
+                //cmbcaste.Items.Insert(0, "NA");
+                //cmbsubcaste.Items.Insert(0, "NA");
+            }
+            else
+            {
+                cmbcaste.Items.Insert(0, "Select");
+                cmbcaste.Enabled = true;
+                //cmbsubcaste.Enabled = true;
+                religionid = Convert.ToInt32(cmbreligion.SelectedItem.Value);
+                FillCaste(religionid);
+            }
+
+
+            //connection.Open();
+            int val = int.Parse (cmbreligion .SelectedValue );
+            SqlDataAdapter da = new SqlDataAdapter ("select ApplicantID,ApplicantLName +' ' + ApplicantLName 'Name' ,Age  from tblApplicantBasicInfo where ApplicantReligionID="+ val  ,connection );
+            DataSet ds = new DataSet ();
+            DataTable dt = new DataTable ();
+            try
+            {
+                da.Fill(ds, "religion");
+                dt = ds.Tables["religion"];
+                grdsearch.DataSource = dt;
+                grdsearch.DataBind();
+            }
+            catch { throw; }
+            finally
+            {
+                ds.Dispose();
+            }
+                
+
+
+        }
+
+        protected void cmbheightfrm_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            cmbheightto.Items.Clear();
+            //cmbsubcaste.Items.Clear();
+
+
+            if (cmbheightfrm.SelectedItem.Value == "Select")
+            {
+                cmbheightto.Enabled = false;
+                //cmbsubcaste.Enabled = false;
+                //cmbcaste.Items.Insert(0, "NA");
+                //cmbsubcaste.Items.Insert(0, "NA");
+            }
+            else
+            {
+                cmbheightto.Items.Insert(0, "Select");
+                cmbheightto.Enabled = true;
+                //cmbsubcaste.Enabled = true;
+                heightfrom = Convert.ToInt32(cmbheightfrm.SelectedItem.Value);
+                heightto(heightfrom);
+            } 
+        }
+
+
+        private void FillHeightFrom()
+        {
+
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = command.CommandText = "Select * from tblHeight ";
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbheightfrm.DataSource = objDs.Tables[0];
+            cmbheightfrm.DataValueField = "heightID";
+            cmbheightfrm.DataTextField = "heightDesc";
+            //cmbcountry.DataTextField = "Country";
+            //cmbcountry.DataValueField = "CountryID";
+            cmbheightfrm.DataBind();
+            cmbheightfrm.Items.Insert(0, "Select");
+            cmbheightfrm.Enabled = true;
+
+
+        }
+            public void heightto(int heightfrom)
+            {
+                    cmbheightto.Items.Clear();
+                    heightfrom = Convert.ToInt32(cmbheightfrm.SelectedItem.Value);
+                    command.Connection = connection;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = "Select * from tblHeight where heightID >" + heightfrom;
+                    DataSet objDs = new DataSet();
+                    SqlDataAdapter dAdapter = new SqlDataAdapter();
+                    dAdapter.SelectCommand = command;
+                    dAdapter.Fill(objDs);
+                    cmbheightto.DataSource = objDs.Tables[0];
+                    cmbheightto.DataValueField = "heightID";
+                    cmbheightto.DataTextField = "heightDesc";
+                    //cmbstate.DataTextField = "State";
+                    //cmbstate.DataValueField = "StateID";
+                    cmbheightto.DataBind();
+                   
+               
+
+                //cmbsubcaste.Enabled = true;
+        
+            }
+
+            protected void cmbagefrm_SelectedIndexChanged(object sender, EventArgs e)
+            {
+                cmbageto.Items.Clear();
+                //cmbsubcaste.Items.Clear();
+
+
+                if (cmbagefrm.SelectedItem.Value == "Select")
+                {
+                    cmbageto.Enabled = false;
+                    //cmbsubcaste.Enabled = false;
+                    //cmbcaste.Items.Insert(0, "NA");
+                    //cmbsubcaste.Items.Insert(0, "NA");
+                }
+                else
+                {
+                    cmbageto.Items.Insert(0, "Select");
+                    cmbageto.Enabled = true;
+                    
+                    agefrom = Convert.ToInt32(cmbagefrm.SelectedItem.Value);
+                    Agetto();
+                }
+            }
+
+           
+            public void Agetto()
+            {
+                cmbheightto.Items.Clear();
+                agefrom = Convert.ToInt32(cmbagefrm.SelectedItem.Value);
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = "Select * from tblAge where ageID >" + agefrom;
+                DataSet objDs = new DataSet();
+                SqlDataAdapter dAdapter = new SqlDataAdapter();
+                dAdapter.SelectCommand = command;
+                dAdapter.Fill(objDs);
+                cmbageto.DataSource = objDs.Tables[0];
+                cmbageto.DataValueField = "ageID";
+                cmbageto.DataTextField = "ageDesc";
+                //cmbstate.DataTextField = "State";
+                //cmbstate.DataValueField = "StateID";
+                cmbageto.DataBind();
+
+
+
+                //cmbsubcaste.Enabled = true;
+
+            }
+
+            protected void lnksignout_Click(object sender, EventArgs e)
+            {
+                queryString = "UPDATE tblApplicantAccesscode SET ApllicantLoginStatus=" + "0" + " WHERE ApplicantID=" + applid;
+                command.Connection = connection;
+                command.CommandTimeout = 15;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                Server.Transfer("login.aspx", true);
+            }
+            
+
+        
+       
+ 
+
+       
+    }
+}

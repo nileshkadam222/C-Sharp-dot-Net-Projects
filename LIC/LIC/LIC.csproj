@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F2D96097-6296-48BB-AFF8-A01D6E93679C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LIC</RootNamespace>
+    <AssemblyName>LIC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcknowledgementSlip2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcknowledgementSlip2.Designer.cs">
+      <DependentUpon>AcknowledgementSlip2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcknowledgementSlip1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcknowledgementSlip1.Designer.cs">
+      <DependentUpon>AcknowledgementSlip1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcknowledgementSlip3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcknowledgementSlip3.Designer.cs">
+      <DependentUpon>AcknowledgementSlip3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Claim1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Claim1.Designer.cs">
+      <DependentUpon>Claim1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Claim3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Claim3.Designer.cs">
+      <DependentUpon>Claim3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Claim2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Claim2.Designer.cs">
+      <DependentUpon>Claim2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client1.Designer.cs">
+      <DependentUpon>Client1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client2.Designer.cs">
+      <DependentUpon>Client2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jeevan Anand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jeevan Anand.Designer.cs">
+      <DependentUpon>Jeevan Anand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JeevanSaral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JeevanSaral.Designer.cs">
+      <DependentUpon>JeevanSaral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LICDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LICDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LICDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LICDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LICDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LICDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plan Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plan Details.Designer.cs">
+      <DependentUpon>Plan Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queries1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Queries1.Designer.cs">
+      <DependentUpon>Queries1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Queries3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Queries3.Designer.cs">
+      <DependentUpon>Queries3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service1.Designer.cs">
+      <DependentUpon>Service1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service2.Designer.cs">
+      <DependentUpon>Service2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transaction1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction1.Designer.cs">
+      <DependentUpon>transaction1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction2.Designer.cs">
+      <DependentUpon>Transaction2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcknowledgementSlip2.resx">
+      <DependentUpon>AcknowledgementSlip2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcknowledgementSlip1.resx">
+      <DependentUpon>AcknowledgementSlip1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcknowledgementSlip3.resx">
+      <DependentUpon>AcknowledgementSlip3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Claim1.resx">
+      <DependentUpon>Claim1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Claim3.resx">
+      <DependentUpon>Claim3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Claim2.resx">
+      <DependentUpon>Claim2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client1.resx">
+      <DependentUpon>Client1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client2.resx">
+      <DependentUpon>Client2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jeevan Anand.resx">
+      <DependentUpon>Jeevan Anand.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JeevanSaral.resx">
+      <DependentUpon>JeevanSaral.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan Details.resx">
+      <DependentUpon>Plan Details.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Queries1.resx">
+      <DependentUpon>Queries1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Queries3.resx">
+      <DependentUpon>Queries3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Report1.rdlc" />
+    <EmbeddedResource Include="Report\Report2.rdlc" />
+    <EmbeddedResource Include="Report\Report3.rdlc" />
+    <EmbeddedResource Include="Service1.resx">
+      <DependentUpon>Service1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service2.resx">
+      <DependentUpon>Service2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction1.resx">
+      <DependentUpon>transaction1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction2.resx">
+      <DependentUpon>Transaction2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="LICDataSet1.xsc">
+      <DependentUpon>LICDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LICDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LICDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LICDataSet1.xss">
+      <DependentUpon>LICDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LICDataSet2.xsc">
+      <DependentUpon>LICDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LICDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LICDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LICDataSet2.xss">
+      <DependentUpon>LICDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LICDataSet3.xsc">
+      <DependentUpon>LICDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="LICDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LICDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LICDataSet3.xss">
+      <DependentUpon>LICDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Colors.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LIC.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

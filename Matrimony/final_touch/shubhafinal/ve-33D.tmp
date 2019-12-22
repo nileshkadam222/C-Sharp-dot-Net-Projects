@@ -1,0 +1,749 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+
+namespace shubhafinal
+{
+    public partial class signuppersonaldetails : System.Web.UI.Page
+    {
+        static SqlConnection connection;
+        SqlCommand command = new SqlCommand();
+        SqlCommand command1 = new SqlCommand();
+        SqlDataReader reader;
+        DBConnection Objdbconn = new DBConnection();
+        string queryString;
+        int intapplid, age, f;
+
+        Int32 ApplicantMotherTongue, e, intid1, ApplicantGenderID, ApplicantMaritalStatusID, ApplicantReligionID, ApplicantcasteID, countryid, stateid, Cityid, religionid, casteid, subcasteid, ApplicantMangalikStatusID, BirthDate, BirthMonth, BirthYear;
+
+        string applname,applmidname, appllastname, father, mother, addr,pin, email, altemail, resarea, restel, officearea,office, mobile;
+        string password;
+        bool boolUserFound = true;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                lblerror.Visible = false;
+            
+                    Objdbconn.ConnectionClose();
+                    queryString = "SELECT * FROM tblgender";
+                    connection = Objdbconn.GetConnectionInfo();
+                    connection.Open();
+
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbgender.DataSource = reader;
+                    cmbgender.DataValueField = "genderid";
+                    cmbgender.DataTextField = "genderdesc";
+                    cmbgender.DataBind();
+                    cmbgender.Items.Insert(0, "Select");
+                    reader.Close();
+
+                    queryString = "SELECT * FROM tblmaritalstatus";
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbmarstatus.DataSource = reader;
+                    cmbmarstatus.DataValueField = "maritalstatusid";
+                    cmbmarstatus.DataTextField = "maritalstatusdesc";
+                    cmbmarstatus.DataBind();
+                    cmbmarstatus.Items.Insert(0, "Select");
+                    reader.Close();
+                    FillCountry();
+
+                    FillReligion();
+                    
+                    queryString = "SELECT * FROM tblmangalikstatus";
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbmangalik.DataSource = reader;
+                    cmbmangalik.DataValueField = "mangalikid";
+                    cmbmangalik.DataTextField = "mangalikstatus";
+                    cmbmangalik.DataBind();
+                    cmbmangalik.Items.Insert(0, "Select");
+                    reader.Close();
+
+                    queryString = "SELECT * FROM tblMothertongoue";
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbmothertongue.DataSource = reader;
+                    cmbmothertongue.DataValueField = "mothertoungoueID";
+                    cmbmothertongue.DataTextField = "mothertongoueDesc";
+                    cmbmothertongue.DataBind();
+                    cmbmothertongue.Items.Insert(0, "Select");
+                    reader.Close();
+
+                    queryString = "SELECT * FROM tblYear";
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbbirthyear.DataSource = reader;
+                    cmbbirthyear.DataValueField = "yearID";
+                    cmbbirthyear.DataTextField = "yearDesc";
+                    cmbbirthyear.DataBind();
+                    cmbbirthyear.Items.Insert(0, "Select");
+                    reader.Close();
+
+                    queryString = "SELECT * FROM tblMonth";
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbbirthmonth.DataSource = reader;
+                    cmbbirthmonth.DataValueField = "monthID";
+                    cmbbirthmonth.DataTextField = "monthDesc";
+                    cmbbirthmonth.DataBind();
+                    cmbbirthmonth.Items.Insert(0, "Select");
+                    reader.Close();
+
+                    queryString = "SELECT * FROM tblDate";
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+
+                    reader = command.ExecuteReader();
+                    cmbbirthdate.DataSource = reader;
+                    cmbbirthdate.DataValueField = "dateID";
+                    cmbbirthdate.DataTextField = "dateDesc";
+                    cmbbirthdate.DataBind();
+                    cmbbirthdate.Items.Insert(0, "Select");
+                    reader.Close();
+
+
+                    
+                   
+                    //if (reader.HasRows)
+                    //    if (reader.HasRows)
+                    //    {
+                    //        if (reader.Read())
+                    //        {
+                    //            Response.Write(String.Format("{0}, {1}",
+                    //                reader[0], reader[1]));
+
+                    //        }
+                    //    }
+                    //    else
+                    //    {
+                    //        Response.Write(@"<script language='javascript'>alert('No record found')</script>");
+
+                    //    }
+                    //reader.Close();
+
+
+               
+            }
+
+        }
+        public int GenerateID()
+        {
+            Int32 intid = 0;
+            intid1 = 0;
+
+            SqlCommand dataCommand = new SqlCommand();
+
+            dataCommand.CommandText = "SELECT MAX(ApplicantID) FROM tblApplicantAccesscode";
+            
+            try
+            {
+
+                dataCommand.Connection = connection;
+               
+                object objValue = dataCommand.ExecuteScalar();
+                
+                if (objValue != null)
+                {
+                    intid = Convert.ToInt32(objValue);
+                    intid1=Convert.ToInt32(objValue);
+                }
+            }
+            catch (Exception errLog)
+            {
+            }
+
+            return intid;
+            
+        }
+
+        public int checkall()
+        {
+            if (txtaddr.Text == "" ||
+            //txtage.Text == "" ||
+            txtaltemail.Text == "" ||
+            txtapplname.Text == "" ||
+            txtapplmid.Text == "" ||
+            txtappllast.Text == "" ||
+           
+            cmbcaste.Text=="Select" ||
+            cmbmothertongue.Text=="Select" ||
+            txtemail.Text == "" ||
+            txtfathername.Text == "" ||
+            txtmobile.Text == "" ||
+            txtmothername.Text == "" ||
+            
+            //txtofficecntry.Text == "" ||
+            txtrestel.Text == "" )
+           
+            {
+                return 0;
+            }
+            else
+            {
+                return 1;
+            }
+
+ 
+        }
+
+        
+        protected void cmdupdatencontinue_Click(object sender, EventArgs e)
+        {
+            if (cmbbirthdate.SelectedItem.Value == "0" || cmbbirthmonth.SelectedItem.Value == "0" || cmbbirthyear.SelectedItem.Value == "0" ||
+                cmbgender.SelectedItem.Value == "Select" || cmbmarstatus.SelectedItem.Value == "Select" || cmbreligion.SelectedItem.Value == "Select" || cmbmothertongue.SelectedItem.Value == "Select" ||
+                cmbcaste.SelectedItem.Value == "Select" ||  cmbmangalik.SelectedItem.Value == "Select" || cmbcountry.SelectedItem.Value == "Select" ||
+                cmbstate.SelectedItem.Value == "Select" || cmbcity.SelectedItem.Value == "Select")
+            {
+                //lblerror.Visible = true;
+                //lblerror.Text = "All Fields Are Mandatory";
+                Response.Write(@"<script language='javascript'>alert('All fields are mandatory')</script>");
+            }
+            else
+            {
+                lblerror.Visible = false;
+                BirthDate = Convert.ToInt32(cmbbirthdate.SelectedItem.Value);
+                BirthMonth = Convert.ToInt32(cmbbirthmonth.SelectedItem.Value);
+                BirthYear = Convert.ToInt32(cmbbirthyear.SelectedItem.Value);
+                ApplicantGenderID = Convert.ToInt32(cmbgender.SelectedItem.Value);
+                ApplicantMaritalStatusID = Convert.ToInt32(cmbmarstatus.SelectedItem.Value);
+                ApplicantReligionID = Convert.ToInt32(cmbreligion.SelectedItem.Value);
+                ApplicantMotherTongue = Convert.ToInt32(cmbmothertongue.SelectedItem.Value);
+                if (cmbcaste.SelectedItem.Value == "NA")
+                    ApplicantcasteID = 0;
+                else
+                    ApplicantcasteID = Convert.ToInt32(cmbcaste.SelectedItem.Value);
+                //if (cmbsubcaste.SelectedItem.Value == "NA")
+                //    ApplicantSubcasteID = 0;
+                //else
+                //    ApplicantSubcasteID = Convert.ToInt32(cmbsubcaste.SelectedItem.Value);
+                ApplicantMaritalStatusID = Convert.ToInt32(cmbmarstatus.SelectedItem.Value);
+                countryid = Convert.ToInt32(cmbcountry.SelectedItem.Value);
+                Cityid = Convert.ToInt32(cmbcity.SelectedItem.Value);
+                stateid = Convert.ToInt32(cmbstate.SelectedItem.Value);
+                applname = txtapplname.Text;
+                applmidname = txtapplmid.Text;
+                appllastname = txtappllast.Text;
+                father = txtfathername.Text;
+                mother = txtmothername.Text;
+                // age = Convert.ToInt32(txtage.Text);
+                addr = txtaddr.Text;
+                pin = txtpin.Text;
+                ApplicantMangalikStatusID = Convert.ToInt32(cmbmangalik.SelectedItem.Value);
+                resarea = txtresarea.Text;
+                restel =  txtrestel.Text;
+                officearea = txtofficearea.Text;
+                office =  txtofficetel.Text;
+                mobile = txtmobile.Text;
+                email = txtemail.Text;
+                altemail = txtaltemail.Text;
+                password = txtpwd.Text.ToString();
+
+
+                int UrID = GenerateID();
+                intapplid = ++UrID;
+
+                boolUserFound = UserAlreadyCheck();
+
+                if (boolUserFound == true)
+                {
+                    Response.Write(@"<script language='javascript'>alert('User is already present')</script>");
+                    return;
+                }
+
+                queryString = "INSERT INTO tblApplicantMembership (ApplicantID,membershiptype) " +
+                            "VALUES(" + intapplid + ",'" + "Free" + "')";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                queryString = "INSERT INTO tblApplicantBasicInfo (ApplicantID,ApplicantName,ApplicantMidname, ApplicantLName,BirthDate,BirthMonth,BirthYear,ApplicantGenderID,ApplicantMaritalStatusID,ApplicantReligionID,ApplicantMotherTongue,ApplicantcasteID,ApplicantMangalikStatusID,ApplicantEmailID) " +
+                            "VALUES(" + intapplid + ",'" + applname + "','" + applmidname + "','" + appllastname + "'," + BirthDate + "," + BirthMonth + "," + BirthYear + ","+ ApplicantGenderID + " ,'" + ApplicantMaritalStatusID + "','" + ApplicantReligionID + "','" + ApplicantMotherTongue + "','" + ApplicantcasteID + "'," + ApplicantMangalikStatusID + ",'" + email + "')";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+
+                queryString = "INSERT INTO tblApplicantCommDetails (ApplicantID,ApplicantAddress,ApplicantPincode,ApplicantCityID,ApplicantStateID,ApplicantCountryID,ApplicantResiArea,ApplicantResiContact,ApplicantOffArea,ApplicantOffContact,ApplicantMobile,ApplicantAlternateEmailID) " +
+                                "VALUES (" + intapplid + ",'" + addr + "','" + pin + "'," + Cityid + "," + stateid + "," + countryid + ",'" + resarea + "','" + restel + "','" + officearea + "','" + office + "','" + mobile + "','" + altemail + "')";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+
+                queryString = "INSERT INTO tblApplicantAttributes (ApplicantID,ApplicantHeight,ApplicantWeight,ApplicantBloodGroup,ApplicantBodyType,ApplicantComplexion,ApplicantPhysicalStatusID,ApplicantVisionStatusID,ApplicantPhysicalDisabilityDesc,ApplicantVisionDisabilityID)" + "VALUES (" + intapplid + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + " )";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                queryString = "INSERT INTO tblApplicantAccesscode(ApplicantID,ApplicantEmailID,ApplicantPassword)" + "VALUES (" + intapplid + ",'" + email + "','" + password + "' )";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                queryString = "INSERT INTO tblApplicantOtherDetails(ApplicantID,resistatusid,twowheeler,fourwheeler,dependants,familyvalueid,familytypeid,familystatusid,alcohol,smoking,tobacco,otherdrugs,hivtest,majorillness,famillness,prefferedfood,jobnature,onjobtravel,sports,entertainment,travelling,relativesurnames,addinfo)" + "VALUES (" + intapplid + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + "," + 0 + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                queryString = "INSERT INTO tblApplicantFamilyDetails(ApplicantID,ApplicantFAName,ApplicantMoName)" + "VALUES (" + intapplid + ",'" + father + "','" + mother + "')";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                queryString = "INSERT INTO tblApplicantExpectationDetails(ApplicantID)" + "VALUES (" + intapplid + "," +  "NA" + "," + "NA" + "," + 0 + "," + 0 + "," + "NA" + "," + "NA" + "," + 0 + "," + 0 + "," + "NA" + "," + "NA" + "," + 0 + "," + "NA" + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                //Response.Write(@"<script language='javascript'>alert('Data Inserted')</script>");
+
+
+                //Session["applid"] = intapplid;
+                
+           
+          
+            if (FileUpload1.PostedFile != null && FileUpload1.PostedFile.FileName != "") 
+            {
+                string path = Server.MapPath("~/Uploaded/");
+                FileUpload1.PostedFile.SaveAs(path + FileUpload1.FileName);
+
+                byte[] myimage = new byte[FileUpload1.PostedFile.ContentLength]; 
+                HttpPostedFile Image = FileUpload1.PostedFile; 
+                Image.InputStream.Read(myimage, 0, (int)FileUpload1.PostedFile.ContentLength);
+
+
+                SqlCommand storeimage = new SqlCommand("INSERT INTO ImageGallery " + "(ApplicantID,Image_Content, Image_Type, Image_Size,Image_Name) "
+                    +" values (@ApplicantID,@image, @imagetype, @imagesize,@imagename)", connection);
+                storeimage.Parameters.AddWithValue ("@ApplicantID", intapplid);
+                storeimage.Parameters.Add("@image", SqlDbType.Image, myimage.Length).Value = myimage; 
+                storeimage.Parameters.Add("@imagetype", SqlDbType.VarChar, 100).Value 
+                = FileUpload1.PostedFile.ContentType; 
+                storeimage.Parameters.Add("@imagesize", SqlDbType.BigInt, 99999).Value 
+                = FileUpload1.PostedFile.ContentLength;
+                storeimage.Parameters.Add("@imagename", SqlDbType.VarChar, 100).Value
+               = FileUpload1.FileName  ; 
+
+
+
+
+                    storeimage.ExecuteNonQuery();
+            }
+                Response.Write(@"<script language='javascript'>alert('Data Inserted')</script>");
+                Server.Transfer("signuppersonalattributes.aspx?applid=" + intapplid, true);
+            
+}
+        }
+
+       
+
+        //public int applid
+        //{
+        //    get
+        //    {
+        //        return intapplid;
+        //    }
+
+        //}
+
+
+
+        public bool UserAlreadyCheck()
+        {
+            bool Found = true;
+            queryString = "SELECT * FROM tblApplicantBasicInfo WHERE ApplicantEmailID='" + email + "'";
+            command.Connection = connection;
+            command.CommandTimeout = 15;
+            command.CommandType = CommandType.Text;
+            command.CommandText = queryString;
+            SqlDataReader reader = command.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    if (reader.Read())
+                    {
+                        //Response.Write(String.Format("{0}, {1}", reader[0], reader[1]));
+                        Found = true;
+
+                    }
+                }
+                else
+                {
+                    //Response.Write(@"<script language='javascript'>alert('No record found')</script>");
+                    Found = false;
+
+                }
+            reader.Close();
+            return Found;
+        }
+
+        
+        //public void clearall()
+        //{
+        //    txtaddr.Text="";
+        //    txtage.Text="";
+        //    txtaltemail.Text="";
+        //    txtapplname.Text="";
+        //    txtapplmid.Text = "";
+        //    txtappllast.Text = "";
+        //    //txtfatherlast.Text = "";
+        //    //txtfathermid.Text = "";
+        //    //txtmotherlast.Text = "";
+        //    //txtmothermid.Text = "";
+        //    cmbcaste.Text="";
+        //    cmbcity.Text="";
+        //    cmbcountry.Text="";
+        //    txtemail.Text="";
+        //    txtfathername.Text="";
+        //    txtmobile.Text="";
+        //    txtmothername.Text="";
+        //    cmbmothertongue.Text="";
+        //    txtrestel.Text="";
+        //    cmbstate.Text="";
+        //}
+
+        protected void txtstate_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void TextBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmbgender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmbreligion_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            cmbcaste.Items.Clear();
+            //cmbsubcaste.Items.Clear();
+           
+            
+            if (cmbreligion.SelectedItem.Value == "Select")
+            {
+                cmbcaste.Enabled = false;
+                //cmbsubcaste.Enabled = false;
+                //cmbcaste.Items.Insert(0, "NA");
+                //cmbsubcaste.Items.Insert(0, "NA");
+            }
+            else
+            {
+                cmbcaste.Items.Insert(0, "Select");
+                cmbcaste.Enabled = true;
+                //cmbsubcaste.Enabled = true;
+                religionid = Convert.ToInt32(cmbreligion.SelectedItem.Value);
+                FillCaste(religionid);
+            } 
+        }
+
+        protected void cmbmangalik_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        protected void cmbgender_SelectedIndexChanged1(object sender, EventArgs e)
+        {
+            //ApplicantGenderID=Convert.ToInt32(cmbgender.SelectedItem.Value);   
+        }
+
+        protected void cmbmarstatus_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            //ApplicantMaritalStatusID = Convert.ToInt32(cmbmarstatus.SelectedItem.Value);
+           
+        }
+
+        protected void cmbmothertongue_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        protected void cmbcaste_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+            if (cmbcaste.SelectedItem.Value == "Select")
+            {
+                
+                //cmbsubcaste.Items.Clear();
+                //cmbsubcaste.Items.Insert(0, "Select");
+                //cmbsubcaste.Enabled = false;
+            }
+            else if (cmbcaste.SelectedItem.Text== "NA")
+            {
+                //cmbsubcaste.Items.Insert(0,"NA");
+            }
+            else
+            {
+               
+                //cmbsubcaste.Enabled = true;
+                casteid = Convert.ToInt32(cmbcaste.SelectedItem.Value);
+                //FillSubCaste(casteid);
+            }
+            
+        }
+
+           
+
+        protected void cmbcountry_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cmbcountry.SelectedItem.Value == "Select")
+            {
+                cmbstate.Enabled = false;
+                cmbcity.Enabled = false;
+            }
+            else
+            {
+                cmbstate.Enabled = true;
+                cmbcity.Enabled = true;
+                countryid = Convert.ToInt32(cmbcountry.SelectedItem.Value);
+                FillStates(countryid);
+                cmbcity.Items.Clear();
+                cmbcity.Items.Insert(0, "Select");
+                
+            }
+         }
+        
+       
+        private void FillReligion()
+        {
+
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = command.CommandText = "Select * from tblreligion ";
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbreligion.DataSource = objDs.Tables[0];
+            cmbreligion.DataValueField = "religionid";
+            cmbreligion.DataTextField = "religiondesc";
+            //cmbcountry.DataTextField = "Country";
+            //cmbcountry.DataValueField = "CountryID";
+            cmbreligion.DataBind();
+            cmbreligion.Items.Insert(0, "Select");
+            cmbcaste.Enabled = true;
+
+
+        }
+
+        private void FillCaste(int ApplicantReligionID)
+        {
+            cmbcaste.Items.Clear();
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = "Select * from tblcaste where religionid =@religionid";
+            command.Parameters.AddWithValue("@religionid", religionid);
+
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+            cmbcaste.DataSource = objDs.Tables[0];
+            cmbcaste.DataValueField = "casteid";
+            cmbcaste.DataTextField = "castedesc";
+            //cmbstate.DataTextField = "State";
+            //cmbstate.DataValueField = "StateID";
+            cmbcaste.DataBind();
+            if (cmbcaste.Items.Count < 1)
+            {
+                cmbcaste.Items.Insert(0, "NA");
+                //cmbsubcaste.Items.Insert(0, "NA");
+            }
+            else
+                cmbcaste.Items.Insert(0, "Select");
+            
+            //cmbsubcaste.Enabled = true;
+        }
+
+        //private void FillSubCaste(int casteid)
+        //{
+        //    //cmbsubcaste.Items.Clear();
+        //        command.Connection = connection;
+        //        command.CommandType = CommandType.Text;
+        //        command.CommandText = "Select * from tblsubcaste where casteid =@casteid ";
+        //        command.Parameters.AddWithValue("@casteid", casteid);
+        //        DataSet objDs = new DataSet();
+        //        SqlDataAdapter dAdapter = new SqlDataAdapter();
+        //        dAdapter.SelectCommand = command;
+
+        //        dAdapter.Fill(objDs);
+
+
+        //        cmbsubcaste.DataSource = objDs.Tables[0];
+        //        cmbsubcaste.DataTextField = "subcastedesc";
+        //        cmbsubcaste.DataValueField = "subcasteid";
+        //        cmbsubcaste.DataBind();
+        //        if (cmbsubcaste.Items.Count < 1)
+        //            cmbsubcaste.Items.Insert(0, "NA");
+        //        else
+        //            cmbsubcaste.Items.Insert(0, "Select");
+            
+            
+
+        //}
+
+        private void FillCountry()
+        {
+            
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = command.CommandText = "Select * from tblcountry ";
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+                cmbcountry.DataSource = objDs.Tables[0];
+                cmbcountry.DataValueField = "countryid";
+                cmbcountry.DataTextField = "countryname";
+                //cmbcountry.DataTextField = "Country";
+                //cmbcountry.DataValueField = "CountryID";
+                cmbcountry.DataBind();
+                cmbcountry.Items.Insert(0, "Select");
+                cmbstate.Enabled = true;
+            
+
+        }
+
+        private void FillStates(int ApplicantCountryID)
+        {
+
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = "Select * from tblstate where countryid =@countryid";
+            command.Parameters.AddWithValue("@countryid", countryid);
+            
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            dAdapter.Fill(objDs);
+                cmbstate.DataSource = objDs.Tables[0];
+                cmbstate.DataValueField = "stateid";
+                cmbstate.DataTextField = "statedesc";
+                //cmbstate.DataTextField = "State";
+                //cmbstate.DataValueField = "StateID";
+                cmbstate.DataBind();
+                cmbstate.Items.Insert(0, "Select");
+                cmbcity.Enabled = true;
+        }
+
+        private void FillCities(int stateid,int countryid)
+        {
+          
+            command.Connection = connection;
+            command.CommandType = CommandType.Text;
+            command.CommandText = "Select * from tblcity where stateid =" + stateid + " and  countryid=" + countryid ;
+            //command.Parameters.AddWithValue("@stateid", stateid);
+            //command.Parameters.AddWithValue("@countryid", countryid);
+            DataSet objDs = new DataSet();
+            SqlDataAdapter dAdapter = new SqlDataAdapter();
+            dAdapter.SelectCommand = command;
+            
+            dAdapter.Fill(objDs);
+           
+            
+               cmbcity.DataSource = objDs.Tables[0];
+               cmbcity.DataTextField = "citydesc";
+               cmbcity.DataValueField = "cityid";
+               cmbcity.DataBind();
+               cmbcity.Items.Insert(0, "Select");
+            
+           
+        }
+        
+        protected void cmbstate_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cmbstate.SelectedItem.Value == "Select")
+            {
+                cmbcity.Enabled = false;
+            }
+            else
+            {
+                cmbcity.Items.Clear();
+                cmbcity.Items.Insert(0, "Select");
+                cmbcity.Enabled = true;
+                stateid = Convert.ToInt32(cmbstate.SelectedItem.Value);
+                countryid = Convert.ToInt32(cmbcountry.SelectedItem.Value);
+                FillCities(stateid,countryid);
+            }
+        }
+
+        protected void cmbcity_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cmbcity.SelectedItem.Value == "Select")
+            { }
+        }
+
+        protected void cmbsubcaste_SelectedIndexChanged1(object sender, EventArgs e)
+        {
+            
+            //if (cmbsubcaste.SelectedItem.Value == "Select")
+            { }
+        }
+
+        protected void cmbmothertongue_SelectedIndexChanged1(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmbbirthyear_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            DateTime dt=DateTime.Today;
+            int year = Convert.ToInt32(dt.Year);
+
+        }
+
+        
+
+        
+
+
+       
+        }
+        
+        }
+

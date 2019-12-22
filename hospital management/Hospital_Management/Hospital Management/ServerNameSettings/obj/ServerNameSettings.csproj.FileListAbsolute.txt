@@ -1,0 +1,64 @@
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Hope So Final\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Hope So Final1\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Hope So Final2\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Done\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Done\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Done\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\My Pro\VijayEngineers Done\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\My Pro\VijayEngineers Done\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\My Pro\VijayEngineers Done\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\My Pro\VijayEngineers Done\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Done\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Done 6 July\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\My Pro\VijayEngineers Done 7th July\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+E:\Other Projects\Hospital Management System - Final\ServerNameSettings\obj\Debug\ServerNameSettings.pdb
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\bin\Debug\ServerNameSettings.exe
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\bin\Debug\ServerNameSettings.pdb
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.ServerName.resources
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.exe
+C:\Documents and Settings\admin\Desktop\To Deliver\Other\Hospital Management\ServerNameSettings\obj\Debug\ServerNameSettings.pdb

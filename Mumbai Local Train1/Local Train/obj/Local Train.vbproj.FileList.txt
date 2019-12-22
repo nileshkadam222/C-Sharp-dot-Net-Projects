@@ -1,0 +1,30 @@
+bin\Debug\Local Train.exe
+bin\Debug\Local Train.pdb
+bin\Debug\Local Train.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Local_Train.frmadduser.resources
+obj\Debug\Local_Train.frmChangepassword.resources
+obj\Debug\Local_Train.frmdeleteuser.resources
+obj\Debug\Local_Train.frmHarbour_Ticket.resources
+obj\Debug\Local_Train.frmlogin.resources
+obj\Debug\Local_Train.frmMain.resources
+obj\Debug\Local_Train.frmMap.resources
+obj\Debug\Local_Train.Resources.resources
+obj\Debug\Local Train.vbproj.GenerateResource.Cache
+obj\Debug\Local Train.exe
+obj\Debug\Local Train.xml
+obj\Debug\Local Train.pdb
+obj\Debug\Local_Train.frmsplashscreen.resources
+obj\Debug\Local_Train.frmHarbour_Pass.resources
+obj\Debug\Local_Train.frmWestern_Pass.resources
+obj\Debug\Local_Train.frmWestern_Ticket.resources
+obj\Debug\Local_Train.frmCentral_Pass.resources
+obj\Debug\Local_Train.frmCentral_Ticket.resources
+obj\Debug\Local_Train.frmforgotpassword.resources
+obj\Debug\Local_Train.frmAboutSoft.resources
+obj\Debug\Local_Train.frmTicket_Viewer.resources
+obj\Debug\Local_Train.Ticket_Report.rpt
+obj\Debug\Local_Train.Pass_Report.rpt
+obj\Debug\Local_Train.frmPass_Viewer.resources
+obj\Debug\Local_Train.frmSearch_Ticket.resources
+obj\Debug\Local_Train.frmSearch_Pass.resources

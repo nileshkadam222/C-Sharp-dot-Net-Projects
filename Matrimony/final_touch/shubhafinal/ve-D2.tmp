@@ -1,0 +1,411 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+
+namespace shubhafinal
+{
+    public partial class signuppersonaldetails : System.Web.UI.Page
+    {
+        static SqlConnection connection;
+        SqlCommand command = new SqlCommand();
+         SqlCommand command1 = new SqlCommand();
+         SqlDataReader reader;
+        DBConnection Objdbconn = new DBConnection();
+        string queryString;
+        int intapplid,age,f;
+        Int32 intid1;
+        Int64 restel, office, mobile;
+        string applname,applmidname,appllastname,father,mother,gender,marrstatus,relgion,mothertongue,caste,mangalik,addr,city,state,country,email,altemail;
+        bool boolUserFound = true;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                
+                    Objdbconn.ConnectionClose();
+                    queryString = "SELECT * FROM tblgender";
+                    connection = Objdbconn.GetConnectionInfo();
+                    connection.Open();
+                    
+                    command.Connection = connection;
+                    command.CommandTimeout = 15;
+                    command.CommandType = CommandType.Text;
+                    command.CommandText = queryString;
+                
+                   reader = command.ExecuteReader();
+                   cmbgender.DataSource = reader;
+                   cmbgender.DataValueField = "genderid";
+                   cmbgender.DataTextField = "genderdesc";
+                   cmbgender.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblmaritalstatus";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbmarstatus.DataSource = reader;
+                   cmbmarstatus.DataValueField = "maritalstatusid";
+                   cmbmarstatus.DataTextField = "maritalstatusdesc";
+                   cmbmarstatus.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblreligion";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbreligion.DataSource = reader;
+                   cmbreligion.DataValueField = "religionid";
+                   cmbreligion.DataTextField = "religiondesc";
+                   cmbreligion.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblreligion";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbreligion.DataSource = reader;
+                   cmbreligion.DataValueField = "religionid";
+                   cmbreligion.DataTextField = "religiondesc";
+                   cmbreligion.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblcaste";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbcaste.DataSource = reader;
+                   cmbcaste.DataValueField = "casteid";
+                   cmbcaste.DataTextField = "castedesc";
+                   cmbcaste.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblmangalikstatus";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbmangalik.DataSource = reader;
+                   cmbmangalik.DataValueField = "mangalikid";
+                   cmbmangalik.DataTextField = "mangalikstatus";
+                   cmbmangalik.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblcity";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbcity.DataSource = reader;
+                   cmbcity.DataValueField = "cityid";
+                   cmbcity.DataTextField = "citydesc";
+                   cmbcity.DataBind();
+                   reader.Close();
+
+                   queryString = "SELECT * FROM tblstate";
+                   command.Connection = connection;
+                   command.CommandTimeout = 15;
+                   command.CommandType = CommandType.Text;
+                   command.CommandText = queryString;
+
+                   reader = command.ExecuteReader();
+                   cmbstate.DataSource = reader;
+                   cmbstate.DataValueField = "stateid";
+                   cmbstate.DataTextField = "statedesc";
+                   cmbstate.DataBind();
+                   reader.Close();
+
+                   //queryString = "SELECT * FROM tblmangalikstatus";
+                   //command.Connection = connection;
+                   //command.CommandTimeout = 15;
+                   //command.CommandType = CommandType.Text;
+                   //command.CommandText = queryString;
+
+                   //reader = command.ExecuteReader();
+                   //cmbmangalik.DataSource = reader;
+                   //cmbmangalik.DataValueField = "mangalikid";
+                   //cmbmangalik.DataTextField = "mangalikstatus";
+                   //cmbmangalik.DataBind();
+                   //reader.Close();
+                    //if (reader.HasRows)
+                    //    if (reader.HasRows)
+                    //    {
+                    //        if (reader.Read())
+                    //        {
+                    //            Response.Write(String.Format("{0}, {1}",
+                    //                reader[0], reader[1]));
+
+                    //        }
+                    //    }
+                    //    else
+                    //    {
+                    //        Response.Write(@"<script language='javascript'>alert('No record found')</script>");
+
+                    //    }
+                    //reader.Close();
+                
+               
+            }
+
+        }
+        public int GenerateID()
+        {
+            Int32 intid = 0;
+            intid1 = 0;
+
+            SqlCommand dataCommand = new SqlCommand();
+
+            dataCommand.CommandText = "SELECT MAX(ApplicantID) FROM tblApplicantAccesscode";
+            
+            try
+            {
+
+                dataCommand.Connection = connection;
+               
+                object objValue = dataCommand.ExecuteScalar();
+                
+                if (objValue != null)
+                {
+                    intid = Convert.ToInt32(objValue);
+                    intid1=Convert.ToInt32(objValue);
+                }
+            }
+            catch (Exception errLog)
+            {
+            }
+
+            return intid;
+            
+        }
+
+        public int checkall()
+        {
+            if (txtaddr.Text == "" ||
+            txtage.Text == "" ||
+            txtaltemail.Text == "" ||
+            txtapplname.Text == "" ||
+            txtapplmid.Text == "" ||
+            txtappllast.Text == "" ||
+            //txtfatherlast.Text == "" ||
+            //txtfathermid.Text == "" ||
+            //txtmotherlast.Text == "" ||
+            //txtmothermid.Text == "" ||
+            cmbcaste.Text=="select" ||
+            
+            txtemail.Text == "" ||
+            txtfathername.Text == "" ||
+            txtmobile.Text == "" ||
+            txtmothername.Text == "" ||
+            
+            txtofficecntry.Text == "" ||
+            txtrestel.Text == "" )
+           
+            {
+                return 0;
+            }
+            else
+            {
+                return 1;
+            }
+
+ 
+        }
+        protected void cmdupdatencontinue_Click(object sender, EventArgs e)
+        {
+           
+            f=checkall();
+            if (f == 1)
+            {
+                applname = txtapplname.Text;
+                applmidname = txtapplmid.Text;
+                appllastname = txtappllast.Text;
+                father = txtfathername.Text;
+                //fathermid = txtfathermid.Text;
+                //fatherlast = txtfatherlast.Text;
+                mother = txtmothername.Text;
+                //mothermid = txtmothermid.Text;
+                //motherlast = txtmotherlast.Text;
+                age = Convert.ToInt32(txtage.Text);
+                gender = cmbgender.Text;
+                marrstatus = cmbmarstatus.Text;
+                relgion = cmbreligion.Text;
+                mothertongue = cmbmothertongue.Text;
+                caste = cmbcaste.Text;
+                mangalik = cmbmangalik.Text;
+                addr = txtaddr.Text;
+                city = cmbcity.Text;
+                state = cmbstate.Text;
+                country = cmbcountry.Text;
+                restel = Convert.ToInt64(txtrestel.Text);
+                office = Convert.ToInt64(txtofficecntry.Text) + Convert.ToInt64(txtmobile.Text) + Convert.ToInt64(txtmobile.Text);
+                mobile = Convert.ToInt64(txtmobcntry.Text) + Convert.ToInt64(txtmobile.Text);
+                email = txtemail.Text;
+                altemail = txtaltemail.Text;
+
+                int UrID = GenerateID();
+                intapplid = ++UrID;
+
+                boolUserFound = UserAlreadyCheck();
+
+                if (boolUserFound == true)
+                {
+                    Response.Write(@"<script language='javascript'>alert('User is already present')</script>");
+                    return;
+                }
+                queryString = "INSERT INTO tblApplicantBasicInfo (ApplicantID, personalid, attrid, emplid, famid, otherid,exptid) " +
+                            "VALUES(" + intapplid + "," + intid1 + "," + intid1 + "," + intid1 + "," + intid1 + "," + intid1 + "," + intid1 + ")";
+
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+
+                queryString = "INSERT INTO personaldetails (personalid,custname,custmidname,custlastname,custfather,custfathermid,custfatherlast,custmother,custmothermid,custmotherlast,custage,custgender,custmarstatus,custmothertongue,custmangalik,custaddr,custrestel,custoffice,custmobile,custemail,custaltemail)" +
+                    "VALUES(" + intid1 + ",'" + applname + "','" + applmidname + "','" + appllastname + "','" + father + "','" + mother +  "'," + age + " ,'" + gender + "','" + marrstatus + "','" + mothertongue + "','" + mangalik + "','" + addr + "'," + restel + "," + office + "," + mobile + ",'" + email + "','" + altemail + "' )";
+
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                queryString = "INSERT INTO attributesdetails(attrid)" + "VALUES(" + intid1 + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                queryString = "INSERT INTO employementdetails(emplid)" + "VALUES(" + intid1 + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                queryString = "INSERT INTO familydetails(famid)" + "VALUES(" + intid1 + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                queryString = "INSERT INTO otherdetails(otherid)" + "VALUES(" + intid1 + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                queryString = "INSERT INTO expectationdetails(exptid)" + "VALUES(" + intid1 + ")";
+                command.Connection = connection;
+                command.CommandType = CommandType.Text;
+                command.CommandText = queryString;
+                command.ExecuteNonQuery();
+                Response.Write(@"<script language='javascript'>alert('Data Inserted')</script>");
+
+                clearall();
+               
+                Server.Transfer("signuppersonalattributes.aspx", true);
+                
+            }
+            else
+            {
+                Response.Write(@"<script language='javascript'>alert('All Fields Are Mandatory!!!')</script>");
+
+            }
+        }
+        public bool UserAlreadyCheck()
+        {
+            bool Found = true;
+            queryString = "SELECT * FROM personaldetails WHERE custemail='" + email + "'";
+            command.Connection = connection;
+            command.CommandTimeout = 15;
+            command.CommandType = CommandType.Text;
+            command.CommandText = queryString;
+            SqlDataReader reader = command.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    if (reader.Read())
+                    {
+                        //Response.Write(String.Format("{0}, {1}", reader[0], reader[1]));
+                        Found = true;
+
+                    }
+                }
+                else
+                {
+                    //Response.Write(@"<script language='javascript'>alert('No record found')</script>");
+                    Found = false;
+
+                }
+            reader.Close();
+            return Found;
+        }
+
+        
+        public void clearall()
+        {
+            txtaddr.Text="";
+            txtage.Text="";
+            txtaltemail.Text="";
+            txtapplname.Text="";
+            txtapplmid.Text = "";
+            txtappllast.Text = "";
+            //txtfatherlast.Text = "";
+            //txtfathermid.Text = "";
+            //txtmotherlast.Text = "";
+            //txtmothermid.Text = "";
+            cmbcaste.Text="";
+            cmbcity.Text="";
+            cmbcountry.Text="";
+            txtemail.Text="";
+            txtfathername.Text="";
+            txtmobile.Text="";
+            txtmothername.Text="";
+            cmbmothertongue.Text="";
+            txtrestel.Text="";
+            cmbstate.Text="";
+        }
+
+        protected void txtstate_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void TextBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmbgender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmbreligion_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void cmbmangalik_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+       
+        }
+        
+        }
+

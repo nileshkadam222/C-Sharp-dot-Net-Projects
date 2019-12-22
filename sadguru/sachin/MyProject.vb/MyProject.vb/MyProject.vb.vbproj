@@ -1,0 +1,833 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{48F21CA4-553E-4BD9-B590-CF5A87161F79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>MyProject.vb</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MyProject.vb.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MyProject.vb.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\Fertilizer with Pesticide.Designer.vb">
+      <DependentUpon>Fertilizer with Pesticide.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information\Fertilizer with Pesticide.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\sachin.Designer.vb">
+      <DependentUpon>sachin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information\sachin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\plant.Designer.vb">
+      <DependentUpon>plant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information\plant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\Liquid.Designer.vb">
+      <DependentUpon>Liquid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information\Liquid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\Inorganic fertilizers.Designer.vb">
+      <DependentUpon>Inorganic fertilizers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information\Inorganic fertilizers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information\Time release.Designer.vb">
+      <DependentUpon>Time release.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information\Time release.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\billsearch.Designer.vb">
+      <DependentUpon>billsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\billsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fertilizershopDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>fertilizershopDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BillForm.Designer.vb">
+      <DependentUpon>BillForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BillForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\BillReport.Designer.vb">
+      <DependentUpon>BillReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\BillReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\BillReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BillReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\CustReport.Designer.vb">
+      <DependentUpon>CustReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\CustReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\CustReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\EmpReport.Designer.vb">
+      <DependentUpon>EmpReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\EmpReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\EmpReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmpReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutUs.Designer.vb">
+      <DependentUpon>AboutUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GoodbyeForm.Designer.vb">
+      <DependentUpon>GoodbyeForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GoodbyeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="helper.vb" />
+    <Compile Include="Forms\DispatchForm.Designer.vb">
+      <DependentUpon>DispatchForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DispatchForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EmployeeForm.Designer.vb">
+      <DependentUpon>EmployeeForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EmployeeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomerForm.Designer.vb">
+      <DependentUpon>CustomerForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CustomerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Calender.Designer.vb">
+      <DependentUpon>Calender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Calender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Forms\MRNForm.Designer.vb">
+      <DependentUpon>MRNForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MRNForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OrderForm.Designer.vb">
+      <DependentUpon>OrderForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OrderForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ProductForm.Designer.vb">
+      <DependentUpon>ProductForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ProductForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MDIForm.Designer.vb">
+      <DependentUpon>MDIForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MDIForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Forms\SupplierForm.Designer.vb">
+      <DependentUpon>SupplierForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SupplierForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\SupplierReport.Designer.vb">
+      <DependentUpon>SupplierReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\SupplierReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\SupplierReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SupplierReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SearchForms\custsearch.Designer.vb">
+      <DependentUpon>custsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\custsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\dispatchsearch.Designer.vb">
+      <DependentUpon>dispatchsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\dispatchsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\empsearch.Designer.vb">
+      <DependentUpon>empsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\empsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\mrnsearch.Designer.vb">
+      <DependentUpon>mrnsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\mrnsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\ordersearch.Designer.vb">
+      <DependentUpon>ordersearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\ordersearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\productsearch.Designer.vb">
+      <DependentUpon>productsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\productsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForms\suppsearch.Designer.vb">
+      <DependentUpon>suppsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForms\suppsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SplashScreenForm.designer.vb">
+      <DependentUpon>SplashScreenForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplashScreenForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validation.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\sachin.resx">
+      <DependentUpon>sachin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\Fertilizer with Pesticide.resx">
+      <DependentUpon>Fertilizer with Pesticide.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\Inorganic fertilizers.resx">
+      <DependentUpon>Inorganic fertilizers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\Liquid.resx">
+      <DependentUpon>Liquid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\plant.resx">
+      <DependentUpon>plant.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information\Time release.resx">
+      <DependentUpon>Time release.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\billsearch.resx">
+      <DependentUpon>billsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BillForm.resx">
+      <DependentUpon>BillForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BillReport.resx">
+      <DependentUpon>BillReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BillReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BillReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CustomerForm.resx">
+      <DependentUpon>CustomerForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CustReport.resx">
+      <DependentUpon>CustReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CustReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CustReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DispatchForm.resx">
+      <DependentUpon>DispatchForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EmployeeForm.resx">
+      <DependentUpon>EmployeeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Calender.resx">
+      <DependentUpon>Calender.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\EmpReport.resx">
+      <DependentUpon>EmpReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\EmpReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EmpReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AboutUs.resx">
+      <DependentUpon>AboutUs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GoodbyeForm.resx">
+      <DependentUpon>GoodbyeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MRNForm.resx">
+      <DependentUpon>MRNForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OrderForm.resx">
+      <DependentUpon>OrderForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ProductForm.resx">
+      <DependentUpon>ProductForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MDIForm.resx">
+      <DependentUpon>MDIForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SupplierForm.resx">
+      <DependentUpon>SupplierForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\SupplierReport.resx">
+      <DependentUpon>SupplierReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\SupplierReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SupplierReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\custsearch.resx">
+      <DependentUpon>custsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\dispatchsearch.resx">
+      <DependentUpon>dispatchsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\empsearch.resx">
+      <DependentUpon>empsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\mrnsearch.resx">
+      <DependentUpon>mrnsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\ordersearch.resx">
+      <DependentUpon>ordersearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\productsearch.resx">
+      <DependentUpon>productsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForms\suppsearch.resx">
+      <DependentUpon>suppsearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplashScreenForm.resx">
+      <DependentUpon>SplashScreenForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-cancel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-list-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3961174-grunge-background-with-autumn-leaves.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5030619-a-lawn-with-dandelions-with-a-blank-sign.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\998313-grunge-frame.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\794995-garden-dirt-with-fertilizer-on-a-white-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2691755-fertilizer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3315707-mineral-fertilizer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3887192-fertilizer-to-pour-in-hands.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3887194-fertilizer-to-pour-in-hands.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5902754-fertilizer-icon-set-isolated-on-a-white-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8041892-urea-fertilizer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9779805-man-pushing-a-shopping-cart-empty.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12689233-word-on-keyboard-made-in-3d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13018127-word-on-laptop-made-in-3d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13320771-computer-login-browser-drawn-with-chalk-on-blackboard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13381560-word-on-laptop-made-in-3d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13753674-fertilizer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14697987-empty-wooden-sign-with-green-wheat-grass--isolated-on-white1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15358912-word-on-yellow-wall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15602493-word-on-the-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15710383-word-on-black-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16501525-abstract-word-cloud-for-fertilizer-with-related-tags-and-terms.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2691755-fertilizer1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3280049-mineral-fertilizer2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5902754-fertilizer-icon-set-isolated-on-a-white-background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12649536-login-interface-written-with-chalk-on-blackboard1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14697987-empty-wooden-sign-with-green-wheat-grass--isolated-on-white2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15281753-fresh-green-grass-frame-on-white-background %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15281753-fresh-green-grass-frame-on-white-background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15358912-word-on-yellow-wall1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="fertilizershopDataSet.xsc">
+      <DependentUpon>fertilizershopDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="fertilizershopDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>fertilizershopDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="fertilizershopDataSet.xss">
+      <DependentUpon>fertilizershopDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kghostview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen capture 1132013 21855 PM.bmp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\051.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-growing-golden-title-frame-and-flowers-on-green-background-hd-cg-animation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-wire-frame-terrain-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-wire-frame-abstract-looping-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\field_arable_land_lines_ranks_agriculture_54020_1920x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wheat_ears_on_burlap_background_sjpg38892.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-yellow-retro-flourishes-frame-loop-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wheat_ears_on_burlap_background_sjpg388921.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vector-Illustration-Of-Palm-Tree-Frame-Background-188ec70.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vector-Illustration-Of-Palm-Tree-Frame-Background-188ec701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\627550556logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vector-Illustration-Of-Palm-Tree-Frame-Background-188ec70 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backround.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backro copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grass-green-g-backgrounds copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boxes-lighting-backdrop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_line_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen capture 242013 35407 PM.bmp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grass-green-g-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fullscreen capture 242013 45858 PM.bmp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MB900283927.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MH900174033.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MB9002839271.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vintage-paper-scroll1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple-gradient-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-growing-golden-title-frame-on-blue-background-with-flowers-hd-cg-animation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\263447,xcitefun-wonderful-3d-nature-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1 copy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_line_background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hd-wallpaper2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\at-gold-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MB900282865.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\263444,xcitefun-wonderful-3d-nature-6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thm_buttrfly.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataSet\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

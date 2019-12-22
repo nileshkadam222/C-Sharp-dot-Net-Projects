@@ -1,0 +1,152 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF url(images/img01.gif) repeat-x;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #666666;
+}
+#main
+{
+	width:760px;
+	height:900px;
+	margin:0 auto;
+}
+#header {
+	width: 760px;
+	height: 90px;
+	margin: 0 auto;
+}
+#logo {
+	float: left;
+	padding-top: 20px;
+	background: url(images/img02.gif) no-repeat left bottom;
+}
+
+#logo h1, #logo h2 {
+	margin: 0;
+	padding-left: 60px;
+	font-weight: normal;
+	color: #E06529;
+}
+
+#logo h1 {
+	font-weight: bold;
+}
+
+#logo h2 {
+	font-size: 92%;
+}
+
+#logo a {
+	text-decoration: none;
+}
+#topmenu {
+	float: right;
+}
+
+#topmenu ul {
+	margin: 0;
+	padding: 32px 0 0 0;
+	list-style: none;
+	line-height: normal;
+}
+
+#topmenu li {
+	display: inline;
+}
+
+#topmenu a {
+	padding: 0 20px;
+	border-left: 1px solid #E06529;
+	text-decoration: none;
+	font-size: 92%;
+}
+
+#topmenu a:hover {
+	text-decoration: underline;
+}
+
+#topmenu .first a {
+	border: none;
+}
+#header2 {
+	width: 760px;
+	height: 200px;
+	margin: 0 auto;
+}
+#menu {
+	float: left;
+	width: 200px;
+	height: 200px;
+
+	background: url(images/img03.jpg);
+}
+
+#menu ul {
+	margin: 0;
+	padding: 20px 20px 0 20px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	padding: 8px 10px;
+	background: url(images/img05.gif) repeat-x;
+	text-decoration: none;
+	font-size: 13px;
+	font-weight:bolder; 
+	color: #FFFFFF;
+		margin-top:-5px;
+}
+
+#menu a:hover {
+	text-decoration: underline;
+}
+
+#menu .first a {
+	background: none;
+}
+#splash {
+	float: right;
+	width: 554px;
+	height:200px;
+}
+hr {
+	display: none;
+}
+#footer-wrapper {
+	height: 100px;
+	padding: 20px 0;
+	background: #E6E6E6;
+	border-top: 10px solid #CDCDCD;
+}
+
+#footer {
+	width: 760px;
+	margin: 0 auto;
+}
+
+#footer p {
+	margin: 0;
+	line-height: normal;
+}
+
+#footer a {
+	color: #666666;
+}
+#legal {
+	float: left;
+	padding: 10px 0 10px 60px;
+	background: url(images/img11.gif) no-repeat left center;
+}
+
+#links {
+	float: right;
+	padding: 10px 0 0 0;
+}

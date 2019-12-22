@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30428</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{96BFD9E9-21C9-4B00-AC79-E2B54036A809}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>JET_AIRWAYS.My.MyApplication</StartupObject>
+    <RootNamespace>JET_AIRWAYS</RootNamespace>
+    <AssemblyName>JET AIRWAYS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>JET AIRWAYS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>JET AIRWAYS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dispatchbriefing_report.Designer.vb">
+      <DependentUpon>dispatchbriefing_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dispatchbriefing_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="flightscedule_report.Designer.vb">
+      <DependentUpon>flightscedule_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="flightscedule_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmattendance.designer.vb">
+      <DependentUpon>frmattendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmattendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpaymentslip.Designer.vb">
+      <DependentUpon>frmpaymentslip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpaymentslip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmweather.Designer.vb">
+      <DependentUpon>frmweather.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmweather.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaircraftdata.Designer.vb">
+      <DependentUpon>frmaircraftdata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmaircraftdata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fuelmanagement_report.Designer.vb">
+      <DependentUpon>fuelmanagement_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fuelmanagement_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JETAIRWAYSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JETAIRWAYSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="payslip_report.Designer.vb">
+      <DependentUpon>payslip_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="payslip_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdesignation.Designer.vb">
+      <DependentUpon>frmdesignation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdesignation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdespatch briefing.Designer.vb">
+      <DependentUpon>frmdespatch briefing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdespatch briefing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmeditattendance.Designer.vb">
+      <DependentUpon>frmeditattendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmeditattendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmflight schedule.Designer.vb">
+      <DependentUpon>frmflight schedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmflight schedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfuelmanagement.Designer.vb">
+      <DependentUpon>frmfuelmanagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmfuelmanagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmjetairwaysevents.Designer.vb">
+      <DependentUpon>frmjetairwaysevents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmjetairwaysevents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDI.Designer.vb">
+      <DependentUpon>frmMDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmnewempentry.Designer.vb">
+      <DependentUpon>frmnewempentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmnewempentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmnewuser.Designer.vb">
+      <DependentUpon>frmnewuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmnewuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsearchflightentry.Designer.vb">
+      <DependentUpon>frmsearchflightentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsearchflightentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmspalshscreen1.Designer.vb">
+      <DependentUpon>frmspalshscreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmspalshscreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsplashscreen2.Designer.vb">
+      <DependentUpon>frmsplashscreen2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsplashscreen2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="validation.vb" />
+    <Compile Include="weather_report.Designer.vb">
+      <DependentUpon>weather_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="weather_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dispatchbriefing_report.resx">
+      <DependentUpon>dispatchbriefing_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="flightscedule_report.resx">
+      <DependentUpon>flightscedule_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmattendance.resx">
+      <DependentUpon>frmattendance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpaymentslip.resx">
+      <DependentUpon>frmpaymentslip.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmweather.resx">
+      <DependentUpon>frmweather.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaircraftdata.resx">
+      <DependentUpon>frmaircraftdata.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fuelmanagement_report.resx">
+      <DependentUpon>fuelmanagement_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payslip_report.resx">
+      <DependentUpon>payslip_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdesignation.resx">
+      <DependentUpon>frmdesignation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdespatch briefing.resx">
+      <DependentUpon>frmdespatch briefing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmeditattendance.resx">
+      <DependentUpon>frmeditattendance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmflight schedule.resx">
+      <DependentUpon>frmflight schedule.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfuelmanagement.resx">
+      <DependentUpon>frmfuelmanagement.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmjetairwaysevents.resx">
+      <DependentUpon>frmjetairwaysevents.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDI.resx">
+      <DependentUpon>frmMDI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnewempentry.resx">
+      <DependentUpon>frmnewempentry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnewuser.resx">
+      <DependentUpon>frmnewuser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsearchflightentry.resx">
+      <DependentUpon>frmsearchflightentry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmspalshscreen1.resx">
+      <DependentUpon>frmspalshscreen1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsplashscreen2.resx">
+      <DependentUpon>frmsplashscreen2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="weather_report.resx">
+      <DependentUpon>weather_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2006082400040101[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flight_status_Notification[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jetairways_logo[1].gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jet-airways-cabin-crew[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jetairways_logo[1]1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JetAirways_plane[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jet1[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jet_Airways_Banner[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jet_Airways_Banner[1]1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jet_Airways_Banner[1]2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jet1[1]1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jet_Airways_Banner[1]3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jet[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jetairways_logo[1]2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jet-airways-flight-schedule[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\[xDR] Rock On!! - 00.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_custrelation[1].gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jet-airways-cabin-crew[1]1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="JETAIRWAYSDataSet.xsc">
+      <DependentUpon>JETAIRWAYSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JETAIRWAYSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JETAIRWAYSDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JETAIRWAYSDataSet.xss">
+      <DependentUpon>JETAIRWAYSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\Jet-Airways-commence-flights-srilanka[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

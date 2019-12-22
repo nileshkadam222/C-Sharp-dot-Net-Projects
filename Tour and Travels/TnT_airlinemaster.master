@@ -1,0 +1,64 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="TnT_airlinemaster.master.cs" Inherits="airlinemaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="airlinestyle.css" rel="stylesheet" type="text/css" />
+</head>
+<%
+    if (Session.Count == 0)
+    {
+        Response.Redirect("knewlogin.aspx");
+    }
+     %>
+<%
+    lblmsg.Text = Session["user"].ToString();
+ %>
+<body>
+    <form id="form1" runat="server">
+    <div style="text-align:center">
+        
+        <div style="width:950px;">
+            <div style="width:950px; height:100px; background-image:url(images/img011.gif);margin:0 auto;">
+            <div style="text-align:center; font-size:x-large; padding-top:50px; font-family:Bookman Old Style;"><b> Airline Reservation</b></div><span>Welcome: 
+                <asp:Label ID="lblmsg" runat="server" ForeColor="Red"></asp:Label>&nbsp;</span></div> <!--Header-->
+        <div id="tabs">
+            <ul>
+                <li><a href="TnT_kiosksecond.aspx"><span>Home</span></a></li>
+                <li><a href="TnT_airlinereserve.aspx"><span>Reservation</span></a></li>
+                <li><a href="TnT_airlinetime.aspx"><span>Schedule</span></a></li>
+           
+                <li><a href="TnT_airlinetransportation.aspx"><span>Transportation Details</span></a></li>
+                <li><a href="TnT_airlinetravelagent.aspx"><span>Travel Agent</span></a></li>
+                <li><a href="TnT_airlinescargo.aspx"><span>Cargo</span></a></li>
+                <li><a href="TnT_airlinecargoterminals.aspx"><span>Cargo Terminals</span></a></li>
+                <li><a href="TnT_airlineairportdetails.aspx"><span>Contact Us</span></a></li>
+                    <li><a href="TnT_Cancel.aspx"><span>Cancel Reservation</span></a></li>
+                <li><a href="AllReports.aspx"><span>Reports</span></a></li>
+                 
+                 <li><a href="TnT_logout.aspx"><span>Logout</span></a></li>
+            </ul>
+</div>   <!--menu-->
+<div style="background-image:url(images/air.jpg); height:158px; width:950px;"></div><!--picture-->
+        <div style="width:900px; margin:0 auto;">
+            <!--sidediv left-->
+            <div style="width:730px; ">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+                
+                </asp:ContentPlaceHolder>
+            
+            
+            </div><!--sidediv right-->
+        </div>
+      
+  
+        
+        </div>
+        
+    </div>
+    </form>
+</body>
+</html>

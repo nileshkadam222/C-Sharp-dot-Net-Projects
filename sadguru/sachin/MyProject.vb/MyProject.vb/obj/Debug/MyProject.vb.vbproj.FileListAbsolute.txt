@@ -1,0 +1,715 @@
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.PaymentForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+G:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+G:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+G:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+G:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+G:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+G:\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+I:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+I:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+I:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+I:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+I:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+I:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+I:\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.PaymentForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\SurajProject\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\SurajProject\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\SurajProject\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.PaymentForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\SurajProject\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+I:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+H:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+H:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+H:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+H:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+H:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+H:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+H:\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.PaymentForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+H:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+G:\College Data\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+G:\College Data\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+G:\College Data\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.PaymentForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+G:\College Data\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+I:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+I:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+I:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+G:\College Data\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+G:\College Data\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+G:\College Data\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+G:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+E:\College Data\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+E:\College Data\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+E:\College Data\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+E:\College Data\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+E:\College Data\projects\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+E:\College Data\projects\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+E:\College Data\projects\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\suraj\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+C:\suraj\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+F:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+F:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+F:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+F:\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+F:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+F:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+F:\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport1.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+F:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+G:\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+K:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+K:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+K:\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Documents and Settings\NITIRAJ\Desktop\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Documents and Settings\NITIRAJ\Desktop\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Documents and Settings\NITIRAJ\Desktop\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+G:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+G:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+G:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+E:\practicals\SUNNY\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\project\santosh\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\project\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\project\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\project\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\project\santosh\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Form1.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Form1.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\16 HAZARAT CHIKNI\project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Form1.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\16 HAZARAT CHIKNI\final project\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Form1.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.LoginForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+E:\final project sql\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.billsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.custsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.dispatchsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.empsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.mrnsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ordersearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.productsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.suppsearch.resources
+C:\Users\sachin\Desktop\new\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.billsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.custsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.dispatchsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.empsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.mrnsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ordersearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.productsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.suppsearch.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Fertilizer_with_Pesticide.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Inorganic_fertilizers.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Liquid.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.plant.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Time_release.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.sachin.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Loginform.resources
+C:\Users\sachin\Desktop\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Loginform.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.sachin.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Fertilizer_with_Pesticide.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Inorganic_fertilizers.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Liquid.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.plant.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Time_release.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.billsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.custsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.dispatchsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.empsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.mrnsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ordersearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.productsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.suppsearch.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\Users\sachin\Desktop\sachin\fertishop\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Loginform.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.sachin.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Fertilizer_with_Pesticide.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Inorganic_fertilizers.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Liquid.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.plant.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Time_release.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.billsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.custsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.dispatchsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.empsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.mrnsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ordersearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.productsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.suppsearch.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\Users\sachin\Desktop\sachinkhuspe\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Loginform.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.sachin.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Fertilizer_with_Pesticide.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Inorganic_fertilizers.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Liquid.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.plant.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Time_release.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.billsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.AboutUs.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.custsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.dispatchsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.empsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.mrnsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ordersearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.productsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.suppsearch.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+C:\Users\sachin\Desktop\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+G:\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+G:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+G:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+G:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.pdb
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.xml
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\ResolveAssemblyReference.cache
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Loginform.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.sachin.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Fertilizer_with_Pesticide.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Inorganic_fertilizers.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Liquid.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.plant.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Time_release.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.billsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.BillReport.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustomerForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.CustReport.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.DispatchForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmployeeForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Calender.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.EmpReport.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.AboutUs.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.GoodbyeForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MRNForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.OrderForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ProductForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.MDIForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.Resources.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SupplierReport.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.custsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.dispatchsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.empsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.mrnsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.ordersearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.productsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.suppsearch.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\WindowsApplication1.SplashScreenForm.resources
+D:\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.vbproj.GenerateResource.Cache
+D:\shaila\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\shaila\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\shaila\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\shaila\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb
+D:\study\projects\NONRUNABLE\sadguru\sachin\MyProject.vb\MyProject.vb\bin\Debug\MyProject.vb.exe.config
+D:\study\projects\NONRUNABLE\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.exe
+D:\study\projects\NONRUNABLE\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.xml
+D:\study\projects\NONRUNABLE\sadguru\sachin\MyProject.vb\MyProject.vb\obj\Debug\MyProject.vb.pdb

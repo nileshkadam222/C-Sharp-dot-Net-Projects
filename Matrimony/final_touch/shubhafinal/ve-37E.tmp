@@ -1,0 +1,175 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="search.aspx.cs" Inherits="shubhafinal.search" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Welcome to Pavitrabandhan</title>
+
+
+<meta name="keywords" content="" />
+<meta name="Premium Series" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" media="screen" />
+<style type="text/css">
+<!--
+.style1 {color: #000000}
+-->
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+<!-- start header -->
+<div id="header">
+	<div id="logo">
+		<h1><a><span>Shubhamilan</span></a></h1>
+		<p>Ideal Matchmaking</p>
+	</div>
+	<div id="tabsE">
+
+  <ul>
+    <li >  <asp:HyperLink ID="HyperLink1" runat="server" CssClass ="prof" ><span>Home</span></asp:HyperLink></li>
+    <li >  <asp:HyperLink ID="HyperLink2" runat="server" CssClass ="prof" ><span>Profile</span></asp:HyperLink></li>
+    <li >  <asp:HyperLink ID="HyperLink3" runat="server" CssClass ="prof" ><span>Search</span></asp:HyperLink></li>
+    <li >  <asp:HyperLink ID="HyperLink4" runat="server" CssClass ="prof" ><span>Upgrade</span></asp:HyperLink></li>
+    <li >  <asp:HyperLink ID="HyperLink5" runat="server" CssClass ="prof" ><span>Message</span></asp:HyperLink></li>
+    <li >  <asp:HyperLink ID="HyperLink6" runat="server" CssClass ="prof" ><span>Help</span></asp:HyperLink></li>
+    
+</ul>
+</div>
+
+	 
+</div>
+<!-- end header -->
+<div id="wrapper">
+	<!-- start page -->
+	<div id="page">
+	<div id="page-bg">
+		<div id="sidebar1" class="sidebar">
+			<ul>
+			  <li>
+					<h2>Search Options: </h2>
+				 <ul>
+				    <li >
+				        <a> Religion:</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				        <asp:LinkButton ID="lnkrel" runat="server" onclick="lnkrel_Click" >more...</asp:LinkButton>
+                        </br>
+                        <asp:DropDownList ID="cmbreligion" runat="server" Visible="False" 
+                            onselectedindexchanged="cmbreligion_SelectedIndexChanged" 
+                            AutoPostBack="True">
+                        </asp:DropDownList>
+                    </li>
+                    <li ><a> Caste:</a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:LinkButton ID="lnkcaste" runat="server" onclick="lnkcaste_Click" >more...</asp:LinkButton>
+                        </br>
+                        <asp:DropDownList ID="cmbcaste" runat="server" Visible="False">
+                        </asp:DropDownList>
+                     </li>       
+                     <li ><a>Age:</a>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     <asp:LinkButton ID="lnkage" runat="server" onclick="lnkage_Click" >more...</asp:LinkButton>
+                     </br><asp:DropDownList ID="cmbagefrm" runat="server" Visible="False" 
+                             onselectedindexchanged="cmbagefrm_SelectedIndexChanged" 
+                             AutoPostBack="True">
+                          </asp:DropDownList>
+                           <asp:Label ID="lblage" runat="server" Text="To" Width="30px" Visible="False"></asp:Label>
+                          <asp:DropDownList ID="cmbageto" runat="server" Visible="False">
+                          </asp:DropDownList>
+                     </li>
+                     <li ><a> Height:</a>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:LinkButton ID="lnkheight" runat="server" onclick="lnkheight_Click" >more...</asp:LinkButton>
+                        </br>
+                        <asp:DropDownList ID="cmbheightfrm" runat="server" Visible="False" 
+                             AutoPostBack="True" onselectedindexchanged="cmbheightfrm_SelectedIndexChanged">
+                        </asp:DropDownList>
+                        <asp:Label ID="lblheight" runat="server" Text="To" Width="30px" Visible="False"></asp:Label>
+                        <asp:DropDownList ID="cmbheightto" runat="server" Visible="False" 
+                             AutoPostBack="True">
+                        </asp:DropDownList>
+                     </li>
+                     <li ><a> Mangalik:</a>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:LinkButton ID="lnkmangalik" runat="server" onclick="lnkmangalik_Click" >more...</asp:LinkButton>
+                     </br><asp:DropDownList ID="cmbmangalik" runat="server" Visible="False">
+                          </asp:DropDownList>
+                     </li>
+                     
+					<li><a>Educational Qualification:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<asp:LinkButton ID="lnkedu" runat="server" onclick="lnkedu_Click" >more...</asp:LinkButton>
+                    </br><asp:DropDownList ID="cmbedu" runat="server" Visible="False">
+                         </asp:DropDownList>
+                    </li>
+					<li><a>Employment:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:LinkButton 
+                            ID="lnkemp" runat="server" onclick="lnkemp_Click" >more...</asp:LinkButton>
+                        <asp:DropDownList ID="cmbocc" runat="server" Visible="False" >
+                         </asp:DropDownList>
+                    </li>
+					<li><a>Monthly Income:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				    <asp:LinkButton ID="lnkincome" runat="server" onclick="lnkincome_Click" >more...</asp:LinkButton>
+                    </br><asp:DropDownList ID="cmbincome" runat="server" Visible="False">
+                         </asp:DropDownList>
+                    </li>
+						
+				
+				</ul>
+				</li>
+				</ul>
+		</div>
+		<!-- start content -->
+		<div id="content">
+			<div class="flower"><h1 class="style1">Search Results !</h1>
+			  <%--  <p class="byline">&nbsp;</p>
+				<p class="bylin&nbsp;</p>
+				<p class="byline">&nbsp;</p>
+				<p class="byline">&nbsp;</p>
+				<p class="byline">&nbsp;</p>
+				<p class="byline">&nbsp;</p>--%>
+				
+                <asp:GridView ID="grdsearch" runat="server" BackColor="White" 
+                    BorderColor="#CC9966" BorderStyle="None" BorderWidth="1px" CellPadding="4" 
+                    Height="139px" PageSize="1" Width="368px">
+                    <RowStyle BackColor="#CCCCCC" ForeColor="#330099" />
+                    <FooterStyle BackColor="#FFFFCC" ForeColor="#330099" />
+                    <PagerStyle BackColor="#FFFFCC" ForeColor="#330099" HorizontalAlign="Center" />
+                    <SelectedRowStyle BackColor="#FFCC66" Font-Bold="True" ForeColor="#663399" />
+                    <HeaderStyle BackColor="#990000" Font-Bold="True" ForeColor="#FFFFCC" />
+                </asp:GridView>
+          </div>
+               
+		</div>
+        
+		<!-- end content -->
+		<!-- start sidebars -->
+		<div id="sidebar2" class="sidebar">
+			<ul>
+			  <li>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <asp:LinkButton ID="lnksignout" runat="server" onclick="lnksignout_Click" >SIGN OUT</asp:LinkButton>
+                </li>
+				<li></li>
+			  <li></li>
+		  </ul>
+		</div>
+		</div>
+		<!-- end sidebars -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end page -->
+</div>
+</div>
+<div id="footer">
+<div id="footer-bg">
+	<p class="copyright">©&nbsp;&nbsp;2010 All Rights Reserved &nbsp;•&nbsp; Design by&nbsp;&nbsp;2010 All Rights 
+        Reserved &nbsp;•&nbsp; Design byp;2010 All Rights Reserved &nbsp;•&nbsp; Design by Design byp;2010 All Rights Reserved &nbsp;•&nbsp; Design by<a> Pristine 
+        Technologies </a>.</p>
+	<p class="link"><a href="#">Privacy Policy</a>&nbsp;•&nbsp;<a href="#">Terms of Use</a></p>
+</div>
+</div>
+    </form>
+</body>
+</html>
+

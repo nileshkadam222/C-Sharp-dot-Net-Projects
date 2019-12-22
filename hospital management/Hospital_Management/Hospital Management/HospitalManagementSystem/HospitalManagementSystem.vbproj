@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F2CC54D-A5AD-4D9D-8437-DCDD81FC30DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HospitalManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>HospitalManagementSystem</RootNamespace>
+    <AssemblyName>HospitalManagementSystem</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>HospitalManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HospitalManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connection.vb" />
+    <Compile Include="frmAdmlst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmlst.Designer.vb">
+      <DependentUpon>frmAdmlst.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdischarge.Designer.vb">
+      <DependentUpon>frmdischarge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdischarge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdischargeReport.Designer.vb">
+      <DependentUpon>frmdischargeReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdischargeReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdoctors.Designer.vb">
+      <DependentUpon>frmdoctors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdoctors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInpat.Designer.vb">
+      <DependentUpon>frmInpat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInpat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIPBillPaymentReport.Designer.vb">
+      <DependentUpon>frmIPBillPaymentReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIPBillPaymentReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIPBillPayments.Designer.vb">
+      <DependentUpon>frmIPBillPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIPBillPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIPBillReport.Designer.vb">
+      <DependentUpon>frmIPBillReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIPBillReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIPDailyPayments.Designer.vb">
+      <DependentUpon>frmIPDailyPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIPDailyPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIPDailyPaymentsReport.Designer.vb">
+      <DependentUpon>frmIPDailyPaymentsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIPDailyPaymentsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmipexm.Designer.vb">
+      <DependentUpon>frmipexm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmipexm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmipmed.Designer.vb">
+      <DependentUpon>frmipmed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmipmed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlabtest.Designer.vb">
+      <DependentUpon>frmlabtest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlabtest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedicine.Designer.vb">
+      <DependentUpon>frmMedicine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedicine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOPBillPaymentReport.Designer.vb">
+      <DependentUpon>frmOPBillPaymentReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOPBillPaymentReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOPBillPaymentReports.Designer.vb">
+      <DependentUpon>frmOPBillPaymentReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOPBillPaymentReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOPBillPayments.Designer.vb">
+      <DependentUpon>frmOPBillPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOPBillPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOPDailyPayments.Designer.vb">
+      <DependentUpon>frmOPDailyPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOPDailyPayments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOPDailyPaymentsReport.Designer.vb">
+      <DependentUpon>frmOPDailyPaymentsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOPDailyPaymentsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmopdet.Designer.vb">
+      <DependentUpon>frmopdet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmopdet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmopexm.Designer.vb">
+      <DependentUpon>frmopexm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmopexm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmopmeds.Designer.vb">
+      <DependentUpon>frmopmeds.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmopmeds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HospitalManagementDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MDIHospitalManagement.Designer.vb">
+      <DependentUpon>MDIHospitalManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIHospitalManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Myconnection.vb" />
+    <Compile Include="rptDischargeReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDischargeReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptIPBillReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptIPBillReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptIPDailyPaymentsReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptIPDailyPaymentsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptOPBillPaymentReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptOPBillPaymentReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptOPDailyPaymentsReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptOPDailyPaymentsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAdmlst.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAdmlst.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdischarge.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmdischarge.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdischargeReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmdischargeReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdoctors.resx">
+      <DependentUpon>frmdoctors.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInpat.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmInpat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIPBillPaymentReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIPBillPaymentReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIPBillPayments.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIPBillPayments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIPBillReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIPBillReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIPDailyPayments.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIPDailyPayments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIPDailyPaymentsReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIPDailyPaymentsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmipexm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmipexm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmipmed.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmipmed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlabtest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmlabtest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedicine.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMedicine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOPBillPaymentReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOPBillPaymentReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOPBillPaymentReports.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOPBillPaymentReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOPBillPayments.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOPBillPayments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOPDailyPayments.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOPDailyPayments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOPDailyPaymentsReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmOPDailyPaymentsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmopdet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmopdet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmopexm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmopexm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmopmeds.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmopmeds.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIHospitalManagement.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MDIHospitalManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDischargeReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDischargeReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptIPBillReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptIPBillReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptIPDailyPaymentsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptIPDailyPaymentsReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptOPBillPaymentReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptOPBillPaymentReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptOPDailyPaymentsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptOPDailyPaymentsReport.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="HospitalManagementDataSet.xsc">
+      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalManagementDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalManagementDataSet.xss">
+      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\hp1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HospitalManagement.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HospitalManagement_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>HospitalManagement.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

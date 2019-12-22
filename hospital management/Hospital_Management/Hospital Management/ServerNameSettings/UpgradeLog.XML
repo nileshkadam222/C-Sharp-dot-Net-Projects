@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ServerNameSettings">
+</Property><Property Name="Solution File" Value="C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\ServerNameSettings.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\ServerNameSettings.suo">
+</Property><Property Name="Date" Value="Monday, February 27, 2012">
+</Property><Property Name="Time" Value="23:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ServerNameSettings.sln" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\ServerNameSettings.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ServerNameSettings.suo" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\ServerNameSettings.suo">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="ServerNameSettings.csproj" Description="Project file successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\ServerNameSettings.csproj">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="InstallingOCL.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\InstallingOCL.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="InstallingOCL.Designer.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\InstallingOCL.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="Program.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="ServerName.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\ServerName.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="ServerName.Designer.cs" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\ServerName.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="ServerName.resx" Description="File successfully backed up as C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\ServerNameSettings\Backup\ServerName.resx">
+</Event><Event ErrorLevel="0" Project="ServerNameSettings" Source="ServerNameSettings.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ServerNameSettings" Source="ServerNameSettings.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ServerNameSettings.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ServerNameSettings.sln" Description="Converted">
+</Event></UpgradeLog>

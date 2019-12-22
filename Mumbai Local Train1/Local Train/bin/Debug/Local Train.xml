@@ -1,0 +1,316 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LocalTrain
+</name>
+</assembly>
+<members>
+<member name="T:Local_Train.Local_Train_DataDataSet.Central_PassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Central_TicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Harbour_PassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Harbour_TicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.PassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.stationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.TicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Western_PassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Western_TicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.CetralPassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.CetralTicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.HarbourPassnoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.HarbourTicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.WesternPassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.WesternTicketDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Central_PassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Central_TicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Harbour_PassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Harbour_TicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.PassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.stationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.TicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Western_PassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Western_TicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.CetralPassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.CetralTicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.HarbourPassnoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.HarbourTicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.WesternPassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.WesternTicketRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Central_PassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Central_TicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Harbour_PassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Harbour_TicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.PassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.stationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.TicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Western_PassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.Western_TicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.CetralPassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.CetralTicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.HarbourPassnoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.HarbourTicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.WesternPassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet.WesternTicketRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.Central_PassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.Central_TicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.Harbour_PassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.Harbour_TicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.PassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.stationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.TicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.Western_PassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.Western_TicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.CetralPassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.CetralTicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.HarbourPassnoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.HarbourTicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.WesternPassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.WesternTicketTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Local_Train.Local_Train_DataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Local_Train.Local_Train_DataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Local_Train.Local_Train_DataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.UpdateAll(Local_Train.Local_Train_DataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Local_Train.Local_Train_DataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Local_Train.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Local_Train.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Local_Train.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JETAIRWAYS
+</name>
+</assembly>
+<members>
+<member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.AttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.CBriefDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.DBriefDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.DesignationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.Employee_entryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.EventDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FleetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FlightDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FlightscheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FuelManagementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.LogintableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.PassengersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.PaySlipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.TrainingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.AttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.CBriefRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.DBriefRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.DesignationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.Employee_entryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.EventRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FleetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FlightRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FlightscheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FuelManagementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.LogintableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.PassengersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.PaySlipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.TrainingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.AttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.CBriefRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.DBriefRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.DesignationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.Employee_entryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.EventRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FleetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FlightRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FlightscheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.FuelManagementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.LogintableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.PassengersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.PaySlipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet.TrainingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.AttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.CBriefTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.DBriefTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.DesignationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.Employee_entryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.EventTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.FleetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.FlightTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.FlightscheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.FuelManagementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.LogintableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.PassengersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.PaySlipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TrainingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(JET_AIRWAYS.JETAIRWAYSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(JET_AIRWAYS.JETAIRWAYSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(JET_AIRWAYS.JETAIRWAYSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.UpdateAll(JET_AIRWAYS.JETAIRWAYSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:JET_AIRWAYS.JETAIRWAYSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:JET_AIRWAYS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:JET_AIRWAYS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:JET_AIRWAYS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

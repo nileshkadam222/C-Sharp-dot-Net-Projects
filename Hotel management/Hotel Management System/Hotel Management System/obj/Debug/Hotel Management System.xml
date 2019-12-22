@@ -1,0 +1,512 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HotelManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:Hotel_Management_System.DBDataSet1.TblBookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCheckInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCheckOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.tblPriceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblRoomsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QBookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QCheckInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QCheckOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QFreeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QRBookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QRoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblBookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCheckInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCheckOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.tblPriceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblRoomsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QBookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QCheckInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QCheckOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QFreeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QRBookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QRoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblBookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCheckInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCheckOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.tblPriceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblRoomsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.TblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QBookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QCheckInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QCheckOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QFreeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QRBookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1.QRoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TblBookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TblCheckInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TblCheckOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.tblPriceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TblRoomsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.QBookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.QCheckInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.QCheckOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.QFreeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.QRBookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.QRoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel_Management_System.DBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel_Management_System.DBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel_Management_System.DBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.UpdateAll(Hotel_Management_System.DBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblBookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCheckInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCheckOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.tblPriceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblRoomsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QBookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QCheckInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QCheckOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QFreeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QRBookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QRoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblBookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCheckInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCheckOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.tblPriceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblRoomsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QBookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QCheckInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QCheckOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QFreeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QRBookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QRoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblBookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCheckInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCheckOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.tblPriceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblRoomsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.TblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QBookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QCheckInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QCheckOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QFreeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QRBookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet.QRoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TblBookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TblCheckInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TblCheckOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.tblPriceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TblRoomsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.QBookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.QCheckInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.QCheckOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.QFreeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.QRBookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.QRoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel_Management_System.DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel_Management_System.DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel_Management_System.DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Hotel_Management_System.DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel_Management_System.DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Hotel_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

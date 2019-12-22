@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F2690848-11F1-4D08-9154-05A90EFD4A96}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hotel_Management_System.My.MyApplication</StartupObject>
+    <RootNamespace>Hotel_Management_System</RootNamespace>
+    <AssemblyName>Hotel Management System</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fChangeUser.Designer.vb">
+      <DependentUpon>fChangeUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fChangeUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCheckOut.Designer.vb">
+      <DependentUpon>fCheckOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fCheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fEditBooking.Designer.vb">
+      <DependentUpon>fEditBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fEditBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fEditCheckIn.Designer.vb">
+      <DependentUpon>fEditCheckIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fEditCheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fExpire.Designer.vb">
+      <DependentUpon>fExpire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fExpire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogIn.Designer.vb">
+      <DependentUpon>fLogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fLogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fOption.Designer.vb">
+      <DependentUpon>fOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckIn.Designer.vb">
+      <DependentUpon>frmCheckIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoom.Designer.vb">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRptBooking.Designer.vb">
+      <DependentUpon>fRptBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fRptBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRptCheckIn.Designer.vb">
+      <DependentUpon>fRptCheckIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fRptCheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRptCheckOut.Designer.vb">
+      <DependentUpon>fRptCheckOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fRptCheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSearchBooking.Designer.vb">
+      <DependentUpon>fSearchBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSearchBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSearchCheckIn.Designer.vb">
+      <DependentUpon>fSearchCheckIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSearchCheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUser.Designer.vb">
+      <DependentUpon>fUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fViewRoom.Designer.vb">
+      <DependentUpon>fViewRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fViewRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Module2.vb" />
+    <Compile Include="Module3.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RBooking.Designer.vb">
+      <DependentUpon>RBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RCheckIn.Designer.vb">
+      <DependentUpon>RCheckIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RCheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RCheckOut.Designer.vb">
+      <DependentUpon>RCheckOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RCheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptBooking.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptBooking.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptCheckIn.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptCheckIn.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptCheckOut.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptCheckOut.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="fChangeUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fChangeUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCheckOut.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fCheckOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fEditBooking.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fEditBooking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fEditCheckIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fEditCheckIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fExpire.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fExpire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fLogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fOption.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fOption.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCheckIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoom.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRptBooking.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fRptBooking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRptCheckIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fRptCheckIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRptCheckOut.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fRptCheckOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSearchBooking.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSearchBooking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSearchCheckIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSearchCheckIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fViewRoom.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fViewRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RBooking.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RBooking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCheckIn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RCheckIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCheckOut.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RCheckOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptBooking.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptBooking.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptCheckIn.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptCheckIn.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptCheckOut.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptCheckOut.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BackGround\BackGround.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Customer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\kghostview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\file_tmp.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Check.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Log Off.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Switch User.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Userexplore.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\CLOCK.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Keys.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\group.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BackGround\Splash.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\messagebox_warning.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

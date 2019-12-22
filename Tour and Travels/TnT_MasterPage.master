@@ -1,0 +1,46 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="TnT_MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="stylemain.css" rel="stylesheet" type="text/css" />
+    <link href="datecss.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript" src="datescript.js"></script>
+</head>
+<body>
+    <form id="form2" runat="server">
+    <div>
+    
+    <div id="container">
+	<!-- header -->
+    <div id="header">
+         <div id="logo" style="width: 508px">
+             <span style="font-family:Algerian;font-size:x-large">Ace tours and travels</span></div>
+            &nbsp;
+    </div>
+   <div id="main">
+        <div id="sidebar">
+          <p>
+              &nbsp;</p>
+        </div>
+        
+      <div id="text" style="width: 545px">
+          
+         
+                <p>
+                </p>
+                <ul>
+                  
+                </ul>
+            <p>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                &nbsp;</p>
+                </div>
+        </div>
+    </div>
+  </form>
+</body>
+</html>

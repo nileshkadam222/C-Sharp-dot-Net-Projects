@@ -1,0 +1,12 @@
+D:\study\projects\NONRUNABLE\collection\collection\bin\Debug\collection.exe
+D:\study\projects\NONRUNABLE\collection\collection\bin\Debug\collection.pdb
+D:\study\projects\NONRUNABLE\collection\collection\bin\Debug\collection.xml
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\ResolveAssemblyReference.cache
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.MDIParent1.resources
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.Resources.resources
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.vbproj.GenerateResource.Cache
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.exe
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.xml
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.pdb
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.Form1.resources
+D:\study\projects\NONRUNABLE\collection\collection\obj\Debug\collection.Form2.resources

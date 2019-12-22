@@ -1,0 +1,43 @@
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.BillForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.PaymentForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.SplashScreenForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.LoginForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.MDIForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.vbproj.GenerateResource.Cache
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\bin\Release\MyProject.vb.exe
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\bin\Release\MyProject.vb.pdb
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\bin\Release\MyProject.vb.xml
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.CustomerForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.DispatchForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.EmployeeForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.MRNForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.OrderForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.ProductForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.SupplierForm.resources
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.exe
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.xml
+C:\Users\PARTH\Documents\Visual Studio 2008\Projects\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.pdb
+I:\MyProject.vb\MyProject.vb\bin\Release\MyProject.vb.exe
+I:\MyProject.vb\MyProject.vb\bin\Release\MyProject.vb.pdb
+I:\MyProject.vb\MyProject.vb\bin\Release\MyProject.vb.xml
+I:\MyProject.vb\MyProject.vb\obj\Release\ResolveAssemblyReference.cache
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.BillForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.CustomerForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.DispatchForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.EmployeeForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.Calender.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.LoginForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.MRNForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.OrderForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.PaymentForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.ProductForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.SplashScreenForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.MDIForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.Resources.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\WindowsApplication1.SupplierForm.resources
+I:\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.vbproj.GenerateResource.Cache
+I:\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.exe
+I:\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.xml
+I:\MyProject.vb\MyProject.vb\obj\Release\MyProject.vb.pdb

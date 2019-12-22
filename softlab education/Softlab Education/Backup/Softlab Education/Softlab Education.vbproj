@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A72F9BB-AF2F-49FD-BD82-BECD985A78C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Softlab_Education.My.MyApplication</StartupObject>
+    <RootNamespace>Softlab_Education</RootNamespace>
+    <AssemblyName>Softlab Education</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Softlab Education.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Softlab Education.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aboutus.Designer.vb">
+      <DependentUpon>Aboutus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aboutus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addmission_details.Designer.vb">
+      <DependentUpon>addmission_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addmission_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arrenge_shedule.Designer.vb">
+      <DependentUpon>arrenge_shedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arrenge_shedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="batch_details.Designer.vb">
+      <DependentUpon>batch_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="batch_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="batrpt.Designer.vb">
+      <DependentUpon>batrpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="batrpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculty_details.Designer.vb">
+      <DependentUpon>Faculty_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Faculty_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receiptrpt.Designer.vb">
+      <DependentUpon>receiptrpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="receiptrpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="result.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>result.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="resultrpt.Designer.vb">
+      <DependentUpon>resultrpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resultrpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rs.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rs.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Search_arrange.Designer.vb">
+      <DependentUpon>Search_arrange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_arrange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="source.vb" />
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Installment_details.Designer.vb">
+      <DependentUpon>Installment_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Installment_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login form.Designer.vb">
+      <DependentUpon>Login form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Receipt_details.Designer.vb">
+      <DependentUpon>Receipt_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration_details.Designer.vb">
+      <DependentUpon>Registration_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registration_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result_details.Designer.vb">
+      <DependentUpon>Result_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Result_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_addmission.Designer.vb">
+      <DependentUpon>Search_addmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_addmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Batch.Designer.vb">
+      <DependentUpon>Search_Batch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Batch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_By.Designer.vb">
+      <DependentUpon>Search_By.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_By.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Faculty.Designer.vb">
+      <DependentUpon>Search_Faculty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Faculty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Installment.Designer.vb">
+      <DependentUpon>Search_Installment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Installment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Receipt.Designer.vb">
+      <DependentUpon>Search_Receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Result.Designer.vb">
+      <DependentUpon>Search_Result.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Result.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Student.Designer.vb">
+      <DependentUpon>Search_Student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subject_details.Designer.vb">
+      <DependentUpon>subject_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="subject_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_details.Designer.vb">
+      <DependentUpon>Test_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Test_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_addmission.Designer.vb">
+      <DependentUpon>Update_addmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_addmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_arrange.Designer.vb">
+      <DependentUpon>Update_arrange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_arrange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Batch.Designer.vb">
+      <DependentUpon>Update_Batch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Batch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Faculty.Designer.vb">
+      <DependentUpon>Update_Faculty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Faculty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Installment.Designer.vb">
+      <DependentUpon>Update_Installment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Installment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Receipt.Designer.vb">
+      <DependentUpon>Update_Receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Result.Designer.vb">
+      <DependentUpon>Update_Result.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Result.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Student.Designer.vb">
+      <DependentUpon>Update_Student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Aboutus.resx">
+      <DependentUpon>Aboutus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addmission_details.resx">
+      <DependentUpon>addmission_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arrenge_shedule.resx">
+      <DependentUpon>arrenge_shedule.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>bat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="batch_details.resx">
+      <DependentUpon>batch_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="batrpt.resx">
+      <DependentUpon>batrpt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculty_details.resx">
+      <DependentUpon>Faculty_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Installment_details.resx">
+      <DependentUpon>Installment_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login form.resx">
+      <DependentUpon>Login form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="receiptrpt.resx">
+      <DependentUpon>receiptrpt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="result.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>result.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resultrpt.resx">
+      <DependentUpon>resultrpt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rs.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rs.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_arrange.resx">
+      <DependentUpon>Search_arrange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receipt_details.resx">
+      <DependentUpon>Receipt_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration_details.resx">
+      <DependentUpon>Registration_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result_details.resx">
+      <DependentUpon>Result_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_addmission.resx">
+      <DependentUpon>Search_addmission.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Batch.resx">
+      <DependentUpon>Search_Batch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_By.resx">
+      <DependentUpon>Search_By.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Faculty.resx">
+      <DependentUpon>Search_Faculty.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Installment.resx">
+      <DependentUpon>Search_Installment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Receipt.resx">
+      <DependentUpon>Search_Receipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Result.resx">
+      <DependentUpon>Search_Result.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Student.resx">
+      <DependentUpon>Search_Student.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subject_details.resx">
+      <DependentUpon>subject_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_details.resx">
+      <DependentUpon>Test_details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_addmission.resx">
+      <DependentUpon>Update_addmission.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_arrange.resx">
+      <DependentUpon>Update_arrange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Batch.resx">
+      <DependentUpon>Update_Batch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Faculty.resx">
+      <DependentUpon>Update_Faculty.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Installment.resx">
+      <DependentUpon>Update_Installment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Receipt.resx">
+      <DependentUpon>Update_Receipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Result.resx">
+      <DependentUpon>Update_Result.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Student.resx">
+      <DependentUpon>Update_Student.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2812%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Report\" />
+    <Folder Include="View\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

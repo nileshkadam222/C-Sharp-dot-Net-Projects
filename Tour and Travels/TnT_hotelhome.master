@@ -1,0 +1,74 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="TnT_hotelhome.master.cs" Inherits="home" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Kiosk Control System</title>
+    <link 
+		rel="stylesheet" 
+		runat="server" 
+		id="myStyleSheet" 
+		type="text/css" 
+		media="screen, projection,print" 
+		href="homestyle.css" />
+
+<script language="javascript" type="text/javascript">
+// <!CDATA[
+
+function IMG1_onclick() {
+ 
+}
+
+// ]]>
+</script>
+</head>
+<%
+    if (Session.Count == 0)
+    {
+        Response.Redirect("knewlogin.aspx");
+    }
+     %>
+<%
+    lblmsg.Text = Session["user"].ToString();
+ %>
+<body>
+    <form id="form1" runat="server">
+    
+    <!--main--><div id="main">
+        <div id="header"><!--tophead-->
+	            <div id="logo" >
+		            <h1><a href="#">Onclick Hotel Details</a></h1>
+		            <!--<h2><a href="http://www.freecsstemplates.org/">By Free CSS Templates</a></h2>-->
+	            </div>
+            Welcome:
+            <asp:Label ID="lblmsg" runat="server"></asp:Label></div><!--closing tophead-->
+     <div id="header2"><!--topheadpict-->
+	    <div id="menu">
+		    <ul>
+			    <li class="first"><a href="TnT_kiosksecond.aspx">Home</a></li><li><a href="Tnt_hotelcochin.aspx">Hotels in Cochin</a></li>
+			    <li><a href="TnT_hotelallepey.aspx">Hotels in Alleppey</a></li>
+			    <li><a href="TnT_hotelkovalam.aspx">Hotels in Kovalam</a></li>
+			    <li><a href="RptHotelBooking.aspx">Reports</a></li>
+			    <li><a href="TnT_logout.aspx">Logout</a></li>
+			    
+		    </ul>
+	    </div>
+	    <div id="splash"><a href="#"><img src="images/img04.jpg" alt="" style="width: 554px; height:195px" id="IMG1" onclick="return IMG1_onclick()"/></a></div>
+     </div><!--Closing topheadpict-->
+     <hr />
+     
+     <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <hr />
+        <div id="footer-wrapper"><!--footer-->
+	        <div id="footer">
+		        <p id="legal">Copyright &copy; 2010 ACE Control System. All Rights Reserved<br /></p>
+		        <p id="links"><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a></p>
+	       </div>
+	   </div><!--Closing footer-->
+    </div><!--Closing main-->
+    </form>
+</body>
+</html>

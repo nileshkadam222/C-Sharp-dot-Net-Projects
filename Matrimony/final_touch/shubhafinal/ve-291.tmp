@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+
+namespace shubhafinal
+{
+    public partial class input : System.Web.UI.Page
+    {
+        static SqlConnection connection;
+        SqlCommand command = new SqlCommand();
+        SqlCommand command1 = new SqlCommand();
+        SqlDataReader reader;
+        DBConnection Objdbconn = new DBConnection();
+        string queryString;
+        string strchoice;
+        int choice;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            strchoice = Request.QueryString["choice"];
+            choice = Convert.ToInt32(strchoice);
+            if (!IsPostBack)
+            {
+                Objdbconn.ConnectionClose();
+                connection = Objdbconn.GetConnectionInfo();
+                connection.Open();
+                if(choice==1)
+                    queryString="select * "
+
+        }
+    }
+}

@@ -1,0 +1,168 @@
+D:\Projects\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.exe
+D:\Projects\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.pdb
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.FrmSplashScreen.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Properties.Resources.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Login.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.MDI_Form.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Customer_Details.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course_Details.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Product_Details.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Staff_Details.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Splash_Screen.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Vendor_Details.resources
+D:\Projects\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.frmSplash_Screen.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Admission_OR_Updation_customer.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Attendance_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Detais_Report.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Change_Password.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Customer_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Fees_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Help_Form.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Login.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.MDI_Form.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machin_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Properties.Resources.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Report.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Salary_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Customer.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Staff.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.frmSplash_Screen.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Staff_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Vendor_Details.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.read.1.tlog
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.write.1.tlog
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.exe
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.pdb
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machine.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepCourse.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepStaff.resources
+E:\TyIT Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.REpTrans.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Admission_OR_Updation_customer.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Attendance_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Detais_Report.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Change_Password.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Customer_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Fees_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Help_Form.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Login.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machine.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.MDI_Form.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machin_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Properties.Resources.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Report.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepStaff.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.REpTrans.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Salary_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Customer.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Staff.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.frmSplash_Screen.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Staff_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Vendor_Details.resources
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.read.1.tlog
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.write.1.tlog
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.exe
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.pdb
+F:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepCOurse.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.exe
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.pdb
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Admission_OR_Updation_customer.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Attendance_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Detais_Report.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Change_Password.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Customer_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Fees_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Help_Form.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Login.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machine.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.MDI_Form.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machin_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Properties.Resources.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Report.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepCOurse.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepStaff.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.REpTrans.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Salary_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Customer.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Staff.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.frmSplash_Screen.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Staff_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Vendor_Details.resources
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.read.1.tlog
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\T. Y. Project 2013\Modern\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.write.1.tlog
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.exe
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\bin\Debug\Yours Fitness Center.pdb
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Admission_OR_Updation_customer.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Attendance_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Batch_Detais_Report.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Change_Password.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Course.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Customer_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Fees_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Help_Form.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Login.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machine.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.MDI_Form.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Machin_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Properties.Resources.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Purchase_Report.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepCOurse.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepStaff.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.REpTrans.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Salary_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Customer.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Search_Staff.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.frmSplash_Screen.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Staff_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.Vendor_Details.resources
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.read.1.tlog
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\ResGen.write.1.tlog
+E:\T. Y. Project 2013\Modern\Finalize\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours_Fitness_Center.RepoStaff.resources
+E:\Proj\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+E:\Proj\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb
+E:\ptoject\Proj\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.exe
+E:\ptoject\Proj\Yours Fitness Center\Yours Fitness Center\obj\x86\Debug\Yours Fitness Center.pdb

@@ -1,0 +1,271 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="signuppersonaldetails.aspx.cs" Inherits="shubhafinal.signuppersonaldetails" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Welcome to Shubhamilan</title>
+<meta name="keywords" content="" />
+<meta name="Premium Series" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" media="screen" />
+    <style type="text/css">
+        .style1
+        {
+            width: 331px;
+        }
+        .style2
+        {
+            width: 155px;
+        }
+        .style3
+        {
+            width: 173px;
+        }
+        .style4
+        {
+            width: 319px;
+        }
+        .style5 {font-size: 9px}
+        .style6
+        {
+            width: 98px;
+        }
+    </style>
+</head>
+<body>
+<!-- start header -->
+<div id="header">
+	<div id="logo">
+		<h1><a><span>Shubhamilan</span></a></h1>
+		<p>Ideal Matchmaking</p>
+	</div>
+	 
+<div id="tabsE">
+
+  
+</div>
+</div>
+<!-- end header -->
+<div id="wrapper">
+	<!-- start page -->
+	<div id="page">
+	<div id="page-bg">
+		<div id="sidebar1" class="sidebar">
+			<ul>
+			  <li>
+					<h2>Registration Form:</h2>
+					<ul>
+						<li><b><a>Personal Details</a></b></li>
+						<li><a>Personal attributes</a></li>
+						<li><a>Employment details</a></li>
+						<li><a>Family details</a></li>
+						<li><a>Other details</a></li>
+						<li><a>Expectations</a></li>
+						
+					</ul>
+				 
+				</li>
+				</ul>
+		</div>
+		<!-- start content -->
+		<div id="content">
+			
+		  <div class="post">
+				<h1 class="title"><a>Personal details....</a></h1>
+	            
+                <form id="form1" runat="server">
+  <table width="210" border="1" align="center">
+  
+    <tr>
+      <td colspan="4"><table width="607" border="1">
+        
+        <tr>
+        
+          <td style="font-size: small; " class="style6">Applicant Full&nbsp;&nbsp; Name : </td>
+          <td class="style4" style="font-size: x-small">
+              <asp:TextBox ID="txtapplname" runat="server" Width="65px" 
+                  Height="27px" />
+              <asp:TextBox ID="txtapplmid" runat="server" Width="65px" 
+                  Height="27px" />
+              <asp:TextBox ID="txtappllast" runat="server" Width="65px" 
+                  Height="27px" />
+              <br />
+              <span class="style5">(Firstname )</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style5"> (Midname )</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style5">&nbsp; 
+              (Lastname )</span></td>
+          <td rowspan="5" class="style1">
+              <asp:Image ID="Image1" runat="server" Height="120px" 
+        Width="130px" BorderStyle="Inset" />
+    
+              <br />
+    
+        <asp:FileUpload ID="FileUpload1" runat="server" onchange="showImage()" Width="142px"/>   
+              
+   </td>
+        </tr>
+        <tr>
+          <td class="style6">Father Name: </td>
+          <td class="style4" style="font-size: x-small"><asp:TextBox ID="txtfathername" 
+                  runat="server" Width="65px" />
+              <br />
+              <span class="style5">(Firstname )&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;<span class="style5">&nbsp; </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style5"></span></td>
+        </tr>
+       
+        <tr>
+          <td class="style6">Mother Name: </td>
+          <td class="style4" style="font-size: x-small"><asp:TextBox ID="txtmothername" 
+                  runat="server" Width="65px" />
+              <br />
+              <span class="style5">(Firstname )&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style5"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style5"></span></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td width="80">Date of Birth : </td>
+        <td colspan="5">&nbsp;&nbsp;<asp:TextBox ID="txtdob" runat="server"></asp:TextBox>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Age :&nbsp;      
+      <asp:TextBox ID="txtage" runat="server" Enabled="False" /></td>
+    </tr>
+    <tr>
+      <td>Gender:</td>
+      <td class="style3"><asp:DropDownList ID="cmbgender" runat="server" 
+              onselectedindexchanged="cmbgender_SelectedIndexChanged1" >
+        
+</asp:DropDownList></td>
+      <td>Marital Status : </td>
+      <td class="style2"><asp:DropDownList ID="cmbmarstatus" runat="server" 
+              onselectedindexchanged="cmbmarstatus_SelectedIndexChanged">
+        <asp:ListItem value="Select">Select</asp:ListItem>
+</asp:DropDownList></td>
+    </tr>
+    <tr>
+      <td>Religion : </td>
+       <td class="style3"><asp:DropDownList ID="cmbreligion" runat="server" 
+               onselectedindexchanged="cmbreligion_SelectedIndexChanged" 
+               style="height: 22px">
+        
+        </asp:DropDownList></td>
+      <td>Mother Tongoue : </td>
+      <td class="style2">
+          <asp:DropDownList ID="cmbmothertongue" runat="server" 
+              onselectedindexchanged="cmbmothertongue_SelectedIndexChanged">
+          <asp:ListItem value="Select">Select</asp:ListItem>
+          
+
+          </asp:DropDownList>
+        </td>
+    </tr>
+    <tr>
+      <td>Caste : </td>
+      <td class="style3">
+          <asp:DropDownList ID="cmbcaste" runat="server" 
+              onselectedindexchanged="cmbcaste_SelectedIndexChanged">
+          <asp:ListItem value="cmbcasteselect">Select</asp:ListItem>
+          </asp:DropDownList>
+        </td>
+      <td>Mangalik : </td>
+      <td class="style2"><asp:DropDownList ID="cmbmangalik" runat="server" 
+              onselectedindexchanged="cmbmangalik_SelectedIndexChanged">
+        <asp:ListItem value="Select">Select</asp:ListItem>
+</asp:DropDownList></td>
+    </tr>
+    <tr>
+      <td colspan="4">Residential Address: </td>
+    </tr>
+    <tr>
+      <td>Address : </td>
+      <td colspan="3"><asp:TextBox ID="txtaddr" TextMode="MultiLine" runat="server" /></td>
+    </tr>
+    <tr>
+      <td>Country :</td>
+      <td colspan="3">
+      <strong>&nbsp;&nbsp;<asp:DropDownList ID="cmbcountry" runat="server" 
+              AutoPostBack="True" Enabled="False" 
+              onselectedindexchanged="cmbcountry_SelectedIndexChanged">
+			<asp:ListItem value="cmbcountryselect">Select</asp:ListItem>
+			
+        </asp:DropDownList>        </strong> &nbsp;State:<strong> &nbsp;</strong>
+      <asp:DropDownList ID="cmbstate" 
+            runat="server" AutoPostBack="True" Enabled="False" 
+              onselectedindexchanged="cmbstate_SelectedIndexChanged">
+        </asp:DropDownList>
+      <strong>&nbsp;&nbsp;&nbsp;</strong> City :&nbsp;
+        <asp:DropDownList ID="cmbcity" runat="server" AutoPostBack="True">        </asp:DropDownList>
+        </td>
+    </tr>
+    <tr>
+    
+      <td>Res. Tel:</td> 
+      <td colspan="3">
+          <asp:TextBox ID="txtrescntry" runat="server" Width="100px" 
+              ReadOnly="True" BackColor="#CCCCCC" >+91</asp:TextBox>
+          <asp:TextBox ID="txtresarea" runat="server"></asp:TextBox>
+          <asp:TextBox ID="txtrestel" runat="server"></asp:TextBox>
+          <br />
+          <span class="style5">(Country code)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style5">(Area code)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+          <span class="style5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Tel. number)</span>&nbsp; </td>
+          </tr>
+       <tr>
+       <td>Office:</td> 
+       <td colspan="3">
+           <asp:TextBox ID="txtofficecntry" runat="server" Width="100px" 
+               ReadOnly="True" BackColor="#CCCCCC" >+91</asp:TextBox>
+           <asp:TextBox ID="txtofficearea" runat="server"></asp:TextBox>
+           <asp:TextBox ID="txtofficetel" runat="server"></asp:TextBox>
+           <br />
+           <span class="style5">(Country code)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style5">&nbsp;&nbsp;&nbsp;&nbsp;(Area code)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+           <span class="style5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Tel. number)</span>&nbsp; </td>
+          </tr>   
+          <tr>
+       <td>Mobile:</td> 
+       <td colspan="3">
+           <asp:TextBox ID="txtmobcntry" runat="server" Width="100px" 
+               ReadOnly="True" BackColor="#CCCCCC" >+91</asp:TextBox>
+           <asp:TextBox ID="txtmobile" runat="server"></asp:TextBox>
+           <br />
+           <span class="style5">(Country code)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style5">&nbsp;&nbsp;&nbsp; (Mobile number)</span></td>
+          </tr>  
+          
+      
+         
+          
+    <tr>
+      <td>Email ID : </td>
+        <td><asp:TextBox ID="txtemail" runat="server" /></td>
+      <td>Alternate Email ID:</td>
+      <td class="style2"><asp:TextBox ID="txtaltemail" runat="server" /></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+          <asp:Button ID="cmdupdatencontinue" runat="server" Text="Update and Continue" 
+              onclick="cmdupdatencontinue_Click" />
+        </td>
+    </tr>
+  </table>
+                </form>
+
+			
+		  </div>
+			<div class="post"><div class="entry"></div>
+			</div>
+		</div>
+		<!-- end content -->
+		<!-- start sidebars -->
+		<div id="sidebar2" class="sidebar">
+			
+		</div>
+		<!-- end sidebars -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end page -->
+</div>
+</div>
+<div id="footer">
+<div id="footer-bg">
+	<p class="copyright">&copy;&nbsp;&nbsp;2010 All Rights Reserved &nbsp;&bull;&nbsp; Design by Pristine Technologies </p>
+	<p class="link"><a href="#">Privacy Policy</a>&nbsp;&#8226;&nbsp;<a href="#">Terms of Use</a></p>
+</div>
+</div>
+</body>
+</html>
+

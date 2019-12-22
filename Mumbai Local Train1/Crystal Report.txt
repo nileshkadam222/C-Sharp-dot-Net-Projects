@@ -1,0 +1,27 @@
+Imports CrystalDecisions.CrystalReports.Engine
+Imports CrystalDecisions.Shared
+
+Public Class ReportViewer
+
+    Private Sub ReportViewer_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Dim cryRpt As New ReportDocument
+        cryRpt.Load("D:\Matrix Bill\Matrix Bill\SaleReport.rpt")
+
+        Dim crParameterFieldDefinitions As ParameterFieldDefinitions
+        Dim crParameterFieldDefinition As ParameterFieldDefinition
+        Dim crParameterValues As New ParameterValues
+        Dim crParameterDiscreteValue As New ParameterDiscreteValue
+
+        crParameterDiscreteValue.Value = CStr(Bill_no)
+        crParameterFieldDefinitions = cryRpt.DataDefinition.ParameterFields
+        crParameterFieldDefinition = crParameterFieldDefinitions.Item("Bill_no")
+        crParameterValues = crParameterFieldDefinition.CurrentValues
+
+        crParameterValues.Clear()
+        crParameterValues.Add(crParameterDiscreteValue)
+        crParameterFieldDefinition.ApplyCurrentValues(crParameterValues)
+
+        Report_Viewer.ReportSource = cryRpt
+        Report_Viewer.Refresh()
+    End Sub
+End Class

@@ -1,0 +1,12 @@
+<script type = "text/javascript">
+        function isAlphaNumeric(keyCode)
+        {
+            return ((keyCode >= 48 && keyCode <= 57) || (keyCode >= 65 && keyCode <= 90) || keyCode == 8)
+        }
+    </script>
+
+
+
+
+
+<asp:TextBox ID="txtAlphaNumeric" runat="server"  onkeydown = "return isAlphaNumeric(event.keyCode);" onpaste = "return false;"></asp:TextBox>

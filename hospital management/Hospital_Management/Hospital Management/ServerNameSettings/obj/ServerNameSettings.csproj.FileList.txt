@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ServerNameSettings.Properties.Resources.resources
+obj\Debug\ServerNameSettings.ServerName.resources
+obj\Debug\ServerNameSettings.csproj.GenerateResource.Cache
+bin\Debug\ServerNameSettings.exe
+bin\Debug\ServerNameSettings.pdb
+obj\Debug\ServerNameSettings.exe
+obj\Debug\ServerNameSettings.pdb

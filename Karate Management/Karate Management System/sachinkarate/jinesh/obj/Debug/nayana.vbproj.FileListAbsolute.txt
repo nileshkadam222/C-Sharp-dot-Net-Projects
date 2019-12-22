@@ -1,0 +1,4 @@
+C:\naina karate\jinesh\bin\Debug\jinesh.exe.config
+C:\naina karate\jinesh\obj\Debug\jinesh.exe
+C:\naina karate\jinesh\obj\Debug\jinesh.xml
+C:\naina karate\jinesh\obj\Debug\jinesh.pdb

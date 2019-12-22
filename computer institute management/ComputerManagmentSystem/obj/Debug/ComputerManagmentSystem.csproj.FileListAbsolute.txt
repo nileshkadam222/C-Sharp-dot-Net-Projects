@@ -1,0 +1,85 @@
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\bin\Debug\ComputerManagmentSystem.exe
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\bin\Debug\ComputerManagmentSystem.pdb
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\bin\Debug\ComputerManagmentSystem.xml
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\bin\Debug\office.dll
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ResolveAssemblyReference.cache
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.addCourse.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.frmPurchases.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.frmUpdatePurchases.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.FeesTranscation.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.FrmLogin.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.frmHome.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.frmSearch.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.frmViewReport.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.Properties.Resources.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.StaffDetail.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.StudentDetails.resources
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.csproj.GenerateResource.Cache
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.exe
+F:\ibition\Student Projects 2011\Windows\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem-VS2008-SQL2005\ComputerManagmentSystem\CS\obj\Debug\ComputerManagmentSystem.pdb
+F:\Users\ibi11\Desktop\converted\ComputerManagmentSystem-VS2008-SQL2008\obj\Debug\ComputerManagmentSystem.exe
+F:\Users\ibi11\Desktop\converted\ComputerManagmentSystem-VS2008-SQL2008\obj\Debug\ComputerManagmentSystem.pdb
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.exe
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.pdb
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.exe
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.pdb
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.xml
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\office.dll
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.addCourse.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmPurchases.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmUpdatePurchases.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.FeesTranscation.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.FrmLogin.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmHome.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmSearch.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmViewReport.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.Properties.Resources.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.StaffDetail.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.StudentDetails.resources
+F:\Users\ibi11\Desktop\Student Project 2012\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.csproj.GenerateResource.Cache
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.exe
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.pdb
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.exe
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.pdb
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.xml
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\office.dll
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.addCourse.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmPurchases.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmUpdatePurchases.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.FeesTranscation.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.FrmLogin.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmHome.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmSearch.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmViewReport.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.Properties.Resources.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.StaffDetail.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.StudentDetails.resources
+D:\Softwares\lates\Student Project 2012_with Scripts\Student Projects 2011 Converted\Windows\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.csproj.GenerateResource.Cache
+D:\project\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.exe
+D:\project\ComputerManagmentSystem-VS2008-SQL2008\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.pdb
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.exe
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.pdb
+G:\projects\computer institute management\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.exe
+G:\projects\computer institute management\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.pdb
+G:\projects\computer institute management\ComputerManagmentSystem\bin\Debug\ComputerManagmentSystem.xml
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.csprojResolveAssemblyReference.cache
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.addCourse.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmPurchases.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmUpdatePurchases.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.FeesTranscation.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.FrmLogin.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmHome.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmSearch.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.frmViewReport.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.Properties.Resources.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.StaffDetail.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.StudentDetails.resources
+G:\projects\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.csproj.GenerateResource.Cache
+F:\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.exe
+F:\computer institute management\ComputerManagmentSystem\obj\Debug\ComputerManagmentSystem.pdb

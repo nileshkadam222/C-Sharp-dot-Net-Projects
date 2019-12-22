@@ -1,0 +1,437 @@
+D:\My project\VB.NET\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+D:\My project\VB.NET\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+D:\My project\VB.NET\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+D:\My project\VB.NET\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+E:\SOFT\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+E:\SOFT\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+E:\SOFT\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+E:\SOFT\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+I:\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+I:\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+I:\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+I:\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+I:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+E:\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+E:\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+E:\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+E:\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+E:\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+D:\Swapnil\Working Area\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+D:\Swapnil\bakup\New folder\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+D:\Swapnil\bakup\New folder\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+D:\Swapnil\bakup\New folder\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+D:\Swapnil\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+E:\Rahul k\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+E:\Rahul k\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+E:\Rahul k\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.vbproj.GenerateResource.Cache
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+E:\Rahul k\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Aboutus.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe.config
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Aboutus.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\C S-03\Desktop\Softlab Education\Softlab Education\obj\Debug\GenerateResource.write.1.tlog
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe.config
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Aboutus.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\GenerateResource.read.1.tlog
+F:\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\GenerateResource.write.1.tlog
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe.config
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.pdb
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\bin\Debug\Softlab Education.xml
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\ResolveAssemblyReference.cache
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Aboutus.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.addmission_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.arrenge_shedule.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batch_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.batrpt.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Faculty_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Installment_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Login_form.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Main.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.receiptrpt.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.resultrpt.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_arrange.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.SplashScreen.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Resources.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Receipt_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Registration_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Result_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_addmission.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Batch.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_By.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Faculty.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Installment.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Receipt.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Result.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Search_Student.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.subject_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Test_details.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_addmission.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_arrange.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Batch.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Faculty.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Installment.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Receipt.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Result.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\Softlab_Education.Update_Student.resources
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\GenerateResource.read.1.tlog
+F:\ajjj\Projects\Mahesh Mane\Softlab Education\Softlab Education\obj\Debug\GenerateResource.write.1.tlog
+C:\visual stdio\softlab education\Softlab Education\Softlab Education\bin\Debug\Softlab Education.exe.config
+C:\visual stdio\softlab education\Softlab Education\Softlab Education\obj\Debug\Softlab Education.exe
+C:\visual stdio\softlab education\Softlab Education\Softlab Education\obj\Debug\Softlab Education.xml
+C:\visual stdio\softlab education\Softlab Education\Softlab Education\obj\Debug\Softlab Education.pdb

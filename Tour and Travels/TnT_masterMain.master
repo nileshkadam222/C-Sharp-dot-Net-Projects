@@ -1,0 +1,83 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="TnT_masterMain.master.cs" Inherits="masterMain" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="stylemain.css" rel="stylesheet" type="text/css" />
+ 
+</head>
+<% 
+    lblmsg.Text = Session["user"].ToString();
+%>
+<body>
+    <form id="form1" runat="server">
+    
+   
+    <div>
+    
+    <div id="container">
+	<!-- header -->
+    <div id="header">
+         <div id="logo" style="width: 423px">
+             <span style="font-family:Algerian;font-size:x-large">ABC Tours and Travels</span></div>
+            <div id="menu" style="width: 403px; height: 27px">
+                <ul>
+                <li><a href="TnT_kiosksecond.aspx">HOME</a></li>
+                <li><a href="TnT_ksrtcmain.aspx">Bus</a></li>
+            
+                <li><a href="TnT_airlinesindex.aspx">AIRLINE</a></li>
+                <li><a href="TnT_hotelabout.aspx">HOTEL</a></li>
+                <li><a href="TnT_knewlogin.aspx">LOGOUT</a></li>
+                </ul>
+          </div>
+    </div>     	
+    <!--end header -->
+    <!-- main -->
+    <div id="main">
+        <div id="sidebar">
+          <p>
+              ABCs are a huge opportunity for retailer and consumer. It’s an interactive computerized
+              unit in a reservation that combines software and hardware to provide internet, information,
+              transaction facilities and many customer-activated services.</p>
+        </div>
+
+        <div id="text" style="width: 545px">
+          <h1>Welcome &nbsp; &nbsp; &nbsp;<asp:Label ID="lblmsg" runat="server" Font-Size="Small" ForeColor="Red"></asp:Label>
+            
+          </h1>
+                <p><b>ABC</b> is the best service, as many have claimed, interactive ABCs are perhaps
+                    the proof of the pudding. Combining ease and sophistication, they are fast becoming
+                    a style statement for companies that want to impress their customers. Plus, as is
+                    the case with all self-service mechanisms such as Bus, Airline and Hotel.</p>
+            <p>
+               <b><span style="font-size: 16pt">SERVICES</span></b></p>
+            <p>
+                Computer ABCs can store data locally, or they can retrieve data from a remote
+                server over a network. ABCs can be used to provide information, which is great
+                when it comes to e-governance, or for facilitating online transactions, or collecting
+                cash in exchange for commodities (your basic vending machine).Praesent hendrerit
+                tincidunt metus. Praesent hendrerit tincidunt metus. 
+            </p>
+                <ul>
+                  <li>Online Bus Reservation. </li>
+                  <li> Online Airline Reservation. </li>
+                  <li>Online Hotel Reservation. </li>
+                </ul>
+            <p>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+                &nbsp;</p>
+        </div>
+    </div>
+    <!-- end main -->
+    <!-- footer -->
+    <div id="footer">
+    </div>
+    <!-- end footer -->
+</div>
+        &nbsp;</div>
+    </form>
+</body>
+</html>

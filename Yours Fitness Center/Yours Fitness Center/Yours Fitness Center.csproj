@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F188E922-2CA5-4CA0-A441-FDD160A2AC86}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Yours_Fitness_Center</RootNamespace>
+    <AssemblyName>Yours Fitness Center</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admission OR Updation customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admission OR Updation customer.Designer.cs">
+      <DependentUpon>Admission OR Updation customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance Details.Designer.cs">
+      <DependentUpon>Attendance Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Batch Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Batch Details.Designer.cs">
+      <DependentUpon>Batch Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Batch Detais Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Batch Detais Report.Designer.cs">
+      <DependentUpon>Batch Detais Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change Password.Designer.cs">
+      <DependentUpon>Change Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course Details.Designer.cs">
+      <DependentUpon>Course Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course.Designer.cs">
+      <DependentUpon>Course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRep.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRep.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customer Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Details.Designer.cs">
+      <DependentUpon>Customer Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fees Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees Details.Designer.cs">
+      <DependentUpon>Fees Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help Form.Designer.cs">
+      <DependentUpon>Help Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Machine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Machine.Designer.cs">
+      <DependentUpon>Machine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI Form.Designer.cs">
+      <DependentUpon>MDI Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product Details.Designer.cs">
+      <DependentUpon>Product Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase Details.Designer.cs">
+      <DependentUpon>Purchase Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase Report.Designer.cs">
+      <DependentUpon>Purchase Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepCOurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepCOurse.Designer.cs">
+      <DependentUpon>RepCOurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepCourse1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepCourse.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RepoStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepoStaff.Designer.cs">
+      <DependentUpon>RepoStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepStaff.Designer.cs">
+      <DependentUpon>RepStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REpTrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REpTrans.Designer.cs">
+      <DependentUpon>REpTrans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary Details.Designer.cs">
+      <DependentUpon>Salary Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search Customer.Designer.cs">
+      <DependentUpon>Search Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search Staff.Designer.cs">
+      <DependentUpon>Search Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash_Screen.Designer.cs">
+      <DependentUpon>frmSplash_Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff Details.Designer.cs">
+      <DependentUpon>Staff Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staffr.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Staffr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vendor Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendor Details.Designer.cs">
+      <DependentUpon>Vendor Details.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admission OR Updation customer.resx">
+      <DependentUpon>Admission OR Updation customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance Details.resx">
+      <DependentUpon>Attendance Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Batch Details.resx">
+      <DependentUpon>Batch Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Batch Detais Report.resx">
+      <DependentUpon>Batch Detais Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change Password.resx">
+      <DependentUpon>Change Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course Details.resx">
+      <DependentUpon>Course Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course.resx">
+      <DependentUpon>Course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRep.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CRep.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Details.resx">
+      <DependentUpon>Customer Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees Details.resx">
+      <DependentUpon>Fees Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help Form.resx">
+      <DependentUpon>Help Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Machine.resx">
+      <DependentUpon>Machine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI Form.resx">
+      <DependentUpon>MDI Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product Details.resx">
+      <DependentUpon>Product Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Purchase Details.resx">
+      <DependentUpon>Purchase Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase Report.resx">
+      <DependentUpon>Purchase Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepCOurse.resx">
+      <DependentUpon>RepCOurse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepCourse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepCourse1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepoStaff.resx">
+      <DependentUpon>RepoStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepStaff.resx">
+      <DependentUpon>RepStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REpTrans.resx">
+      <DependentUpon>REpTrans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary Details.resx">
+      <DependentUpon>Salary Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search Customer.resx">
+      <DependentUpon>Search Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search Staff.resx">
+      <DependentUpon>Search Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash_Screen.resx">
+      <DependentUpon>frmSplash_Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff Details.resx">
+      <DependentUpon>Staff Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Staffr.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendor Details.resx">
+      <DependentUpon>Vendor Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

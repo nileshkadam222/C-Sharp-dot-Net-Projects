@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SupplierInfo" msprop:Generator_UserTableName="SupplierInfo" msprop:Generator_RowDeletedName="SupplierInfoRowDeleted" msprop:Generator_TableClassName="SupplierInfoDataTable" msprop:Generator_RowChangedName="SupplierInfoRowChanged" msprop:Generator_RowClassName="SupplierInfoRow" msprop:Generator_RowChangingName="SupplierInfoRowChanging" msprop:Generator_RowEvArgName="SupplierInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="SupplierInfoRowChangeEventHandler" msprop:Generator_TablePropName="SupplierInfo" msprop:Generator_TableVarName="tableSupplierInfo" msprop:Generator_RowDeletingName="SupplierInfoRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Supid" msprop:Generator_UserColumnName="Supid" msprop:Generator_ColumnPropNameInRow="Supid" msprop:Generator_ColumnVarNameInTable="columnSupid" msprop:Generator_ColumnPropNameInTable="SupidColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Supname" msprop:Generator_UserColumnName="Supname" msprop:Generator_ColumnPropNameInRow="Supname" msprop:Generator_ColumnVarNameInTable="columnSupname" msprop:Generator_ColumnPropNameInTable="SupnameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Phno" msprop:Generator_UserColumnName="Phno" msprop:Generator_ColumnPropNameInRow="Phno" msprop:Generator_ColumnVarNameInTable="columnPhno" msprop:Generator_ColumnPropNameInTable="PhnoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Pincode" msprop:Generator_UserColumnName="Pincode" msprop:Generator_ColumnPropNameInRow="Pincode" msprop:Generator_ColumnVarNameInTable="columnPincode" msprop:Generator_ColumnPropNameInTable="PincodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EMID" msprop:Generator_UserColumnName="EMID" msprop:Generator_ColumnPropNameInRow="EMID" msprop:Generator_ColumnVarNameInTable="columnEMID" msprop:Generator_ColumnPropNameInTable="EMIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Prodname" msprop:Generator_UserColumnName="Prodname" msprop:Generator_ColumnPropNameInRow="Prodname" msprop:Generator_ColumnVarNameInTable="columnProdname" msprop:Generator_ColumnPropNameInTable="ProdnameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+C:\Documents and Settings\nikit\Desktop\shubhafinal\shubhafinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nikit\Desktop\shubhafinal\shubhafinal\bin\shubhafinal.dll
+C:\Documents and Settings\nikit\Desktop\shubhafinal\shubhafinal\bin\shubhafinal.pdb
+C:\Documents and Settings\nikit\Desktop\shubhafinal\shubhafinal\obj\Debug\shubhafinal.dll
+C:\Documents and Settings\nikit\Desktop\shubhafinal\shubhafinal\obj\Debug\shubhafinal.pdb
+E:\NIKIT very imp\pristine technology\nikit&monit\shubhafinal\shubhafinal\bin\shubhafinal.dll
+E:\NIKIT very imp\pristine technology\nikit&monit\shubhafinal\shubhafinal\bin\shubhafinal.pdb
+E:\NIKIT very imp\pristine technology\nikit&monit\shubhafinal\shubhafinal\obj\Debug\ResolveAssemblyReference.cache
+E:\NIKIT very imp\pristine technology\nikit&monit\shubhafinal\shubhafinal\obj\Debug\shubhafinal.dll
+E:\NIKIT very imp\pristine technology\nikit&monit\shubhafinal\shubhafinal\obj\Debug\shubhafinal.pdb

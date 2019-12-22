@@ -1,0 +1,74 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="TnT_ksrtc.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    
+    
+    <title>KSRTC</title>
+    <link 
+		rel="stylesheet" 
+		runat="server" 
+		id="myStyleSheet" 
+		type="text/css" 
+		media="screen, projection,print" 
+		href="ksrtcstyle.css" />
+
+<script language="javascript" type="text/javascript">
+// <!CDATA[
+
+function header_onclick() {
+
+}
+
+function IMG1_onclick() {
+
+}
+
+// ]]>
+</script>
+</head>
+<%
+    if (Session.Count == 0)
+    {
+        Response.Redirect("knewlogin.aspx");
+    }
+     %>
+<%
+    lblmsg.Text = Session["user"].ToString();
+ %>
+<body>
+    <form id="form1" runat="server">
+    <div id="main"><!--main-->
+        <div id="header">
+	        <div id="logo">
+                &nbsp;
+                <!--<img src="images/k.jpg" height="100" /><h1 style="color:#063D78;">KSRTC</h1>-->
+		        
+	        </div>
+	        <div id="menu" style="background-color:#D1E5F5;">
+		        <ul>
+			        <li><a href="TnT_kiosksecond.aspx">Home</a></li>
+			        <li><a href="TnT_ksrtcreservpage.aspx">Reservation</a></li>
+			        <li><a href="TnT_ksrtcdirectory.aspx">Directory</a></li>
+			        <li><a href="TnT_ksrtclinkdetails.aspx">Details</a></li>
+			        <li><a href="TnT_ksrtckeypeople.aspx">Contact</a></li>
+			         <li><a href="TnT_ksrtcreport.aspx">Reports</a></li>
+			        <li><a href="TnT_logout.aspx">Logout</a> welcome:
+                        <asp:Label ID="lblmsg" runat="server"></asp:Label>&nbsp;</li></ul>
+	        </div>
+        </div>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        
+        <br />
+        <div id="footer">
+	        <p id="legal">&copy;2009  KSRTC. All Rights Reserved. </p>
+	        <p id="links"><a href="#">Privacy</a> | <a href="#">Terms</a> | <a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a></p>
+        </div>
+    </div><!--Closing main-->
+    </form>
+</body>
+</html>

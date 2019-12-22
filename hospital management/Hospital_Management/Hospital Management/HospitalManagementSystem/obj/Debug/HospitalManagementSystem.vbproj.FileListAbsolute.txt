@@ -1,0 +1,204 @@
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdmlst.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischarge.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischargeReport.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdoctors.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInpat.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPaymentReport.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPayments.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillReport.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPayments.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPaymentsReport.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipexm.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipmed.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmlabtest.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmMedicine.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReport.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReports.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPayments.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPayments.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPaymentsReport.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopdet.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPExm.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopmeds.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIHospitalManagement.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+C:\siddhi\Window Projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\projects\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\projects\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\projects\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdmlst.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischarge.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischargeReport.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdoctors.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInpat.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPaymentReport.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPayments.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillReport.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPayments.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPaymentsReport.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipexm.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipmed.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmlabtest.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmMedicine.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReport.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReports.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPayments.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPayments.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPaymentsReport.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopdet.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPExm.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopmeds.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIHospitalManagement.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+D:\projects\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+C:\Users\Shetye\Downloads\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdmlst.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischarge.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischargeReport.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdoctors.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInpat.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPaymentReport.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPayments.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillReport.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPayments.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPaymentsReport.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipexm.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipmed.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmlabtest.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmMedicine.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReport.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReports.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPayments.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPayments.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPaymentsReport.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopdet.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPExm.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopmeds.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIHospitalManagement.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+D:\UMFH12\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+K:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+K:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+K:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdmlst.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischarge.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischargeReport.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdoctors.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInpat.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPaymentReport.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPayments.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillReport.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPayments.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPaymentsReport.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipexm.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipmed.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmlabtest.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmMedicine.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReport.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReports.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPayments.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPayments.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPaymentsReport.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopdet.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPExm.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopmeds.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIHospitalManagement.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+G:\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+E:\New folder (2)\SACHIN\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+E:\New folder (2)\SACHIN\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+E:\New folder (2)\SACHIN\tycs-2012\15967\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdmlst.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischarge.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischargeReport.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdoctors.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInpat.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPaymentReport.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPayments.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillReport.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPayments.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPaymentsReport.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipexm.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipmed.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmlabtest.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmMedicine.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReport.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReports.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPayments.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPayments.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPaymentsReport.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopdet.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPExm.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopmeds.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIHospitalManagement.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+H:\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdmlst.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischarge.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdischargeReport.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmdoctors.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInpat.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPaymentReport.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillPayments.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPBillReport.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPayments.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmIPDailyPaymentsReport.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipexm.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmipmed.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmlabtest.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmMedicine.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReport.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPaymentReports.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPBillPayments.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPayments.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPDailyPaymentsReport.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopdet.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmOPExm.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmopmeds.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIHospitalManagement.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.Cache
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagement.mdf
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagement_log.ldf
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\study\projects\NONRUNABLE\hospital management\Hospital_Management\Hospital Management\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml

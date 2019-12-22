@@ -1,0 +1,55 @@
+E:\JET AIRWAYS1\JET AIRWAYS\bin\Release\JET AIRWAYS.exe
+E:\JET AIRWAYS1\JET AIRWAYS\bin\Release\JET AIRWAYS.pdb
+E:\JET AIRWAYS1\JET AIRWAYS\bin\Release\JET AIRWAYS.xml
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\ResolveAssemblyReference.cache
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.Form14.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmfleet.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmattendance.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmdesignation.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmdispatchbriefing.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmeditattendance.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmflightshedule.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.Form6.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmjetairwaysevents.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmlogin.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.MDIParent1.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmnewuser.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmsearchflightentry.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmsplashscreen1.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmsplashscreen2.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET_AIRWAYS.Resources.resources
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET AIRWAYS.vbproj.GenerateResource.Cache
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET AIRWAYS.exe
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET AIRWAYS.xml
+E:\JET AIRWAYS1\JET AIRWAYS\obj\Release\JET AIRWAYS.pdb
+E:\JET AIRWAYS1withreports\JET AIRWAYS\bin\Release\JET AIRWAYS.exe
+E:\JET AIRWAYS1withreports\JET AIRWAYS\bin\Release\JET AIRWAYS.pdb
+E:\JET AIRWAYS1withreports\JET AIRWAYS\bin\Release\JET AIRWAYS.xml
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\ResolveAssemblyReference.cache
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.dispatchbriefing_report.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.flightscedule_report.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmattendance.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmpaymentslip.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmweather.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmaircraftdata.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.fuelmanagement_report.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.payslip_report.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmdesignation.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmdispatchbriefing.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmeditattendance.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmflightshedule.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmfuelmanagement.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmjetairwaysevents.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmlogin.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.MDIParent1.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmnewemployeeentry.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmnewuser.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmsearchflightentry.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmsplashscreen1.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.frmsplashscreen2.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.Resources.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET_AIRWAYS.wether_report.resources
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET AIRWAYS.vbproj.GenerateResource.Cache
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET AIRWAYS.exe
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET AIRWAYS.xml
+E:\JET AIRWAYS1withreports\JET AIRWAYS\obj\Release\JET AIRWAYS.pdb

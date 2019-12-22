@@ -1,0 +1,23 @@
+CREATE PROCEDURE  CetralPass @Passno int AS
+select * from Central_Pass where PassNo=@Passno
+GO
+
+CREATE PROCEDURE  CetralTicket @Ticketno int AS
+select * from Central_Ticket where TicketNo=@Ticketno
+GO
+
+CREATE PROCEDURE  HarbourPassno @Passno int AS
+select * from Harbour_Pass where PassNo=@Passno
+GO
+
+CREATE PROCEDURE  HarbourTicket @Ticketno int AS
+select * from Harbour_Ticket where TicketNo=@Ticketno
+GO
+
+CREATE PROCEDURE  WesternPass @Passno int AS
+select * from Western_Pass where PassNo=@Passno
+GO
+
+CREATE PROCEDURE  WesternTicket @Ticketno int AS
+select * from Western_Ticket where TicketNo=@Ticketno
+GO

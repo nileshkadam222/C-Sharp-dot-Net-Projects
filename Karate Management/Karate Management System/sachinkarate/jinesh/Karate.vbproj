@@ -1,0 +1,781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{609A2FA6-0327-4B50-B869-2A8AD51259DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.SplashScreen1</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>karate</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>karate.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>karate.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About us.Designer.vb">
+      <DependentUpon>About us.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About us.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.vb">
+      <DependentUpon>about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akarate1DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>akarate1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Applicant.Designer.vb">
+      <DependentUpon>Applicant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Applicant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="applicantClass.vb" />
+    <Compile Include="applist.Designer.vb">
+      <DependentUpon>applist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="applist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assign btch.Designer.vb">
+      <DependentUpon>Assign btch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Assign btch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignBatchClass.vb" />
+    <Compile Include="assignbatchlist.Designer.vb">
+      <DependentUpon>assignbatchlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="assignbatchlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignbtchClass.vb" />
+    <Compile Include="Batch.Designer.vb">
+      <DependentUpon>Batch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Batch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="batchClass.vb" />
+    <Compile Include="batchlist.Designer.vb">
+      <DependentUpon>batchlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="batchlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="courseClass.vb" />
+    <Compile Include="courselist.Designer.vb">
+      <DependentUpon>courselist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="courselist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Courses.Designer.vb">
+      <DependentUpon>Courses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Courses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportassignbatch1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportassignbatch1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportbatch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportbatch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportbatchlist1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportbatchlist1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportcourse.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportcourse.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportCourselist01.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportCourselist01.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportStageShowList1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportStageShowList1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReporttrainer1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReporttrainer1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="karate1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet1.vb">
+      <DependentUpon>karate1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet10.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet10.vb">
+      <DependentUpon>karate1DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet11.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet12.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet13.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet14.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet15.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet16.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet17.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet17.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet2.vb">
+      <DependentUpon>karate1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet6.vb">
+      <DependentUpon>karate1DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet7.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet8.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet9.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>karate1DataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="karate1DataSet9.vb">
+      <DependentUpon>karate1DataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainform.Designer.vb">
+      <DependentUpon>Mainform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mainform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="projClass1.vb" />
+    <Compile Include="Search.Designer.vb">
+      <DependentUpon>Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEARCH1.Designer.vb">
+      <DependentUpon>SEARCH1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SEARCH1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search2.Designer.vb">
+      <DependentUpon>Search2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage show details.Designer.vb">
+      <DependentUpon>Stage show details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stage show details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stageshowClass.vb" />
+    <Compile Include="stageshowlist.Designer.vb">
+      <DependentUpon>stageshowlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stageshowlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trainer list.Designer.vb">
+      <DependentUpon>trainer list.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trainer list.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trainer.Designer.vb">
+      <DependentUpon>Trainer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Trainer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trainerClass.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About us.resx">
+      <DependentUpon>About us.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Applicant.resx">
+      <DependentUpon>Applicant.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="applist.resx">
+      <DependentUpon>applist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assign btch.resx">
+      <DependentUpon>Assign btch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assignbatchlist.resx">
+      <DependentUpon>assignbatchlist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Batch.resx">
+      <DependentUpon>Batch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="batchlist.resx">
+      <DependentUpon>batchlist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="courselist.resx">
+      <DependentUpon>courselist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Courses.resx">
+      <DependentUpon>Courses.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportassignbatch1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportassignbatch1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportbatch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportbatch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportbatchlist1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportbatchlist1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportcourse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportcourse.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportCourselist01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportCourselist01.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportStageShowList1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportStageShowList1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReporttrainer1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReporttrainer1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainform.resx">
+      <DependentUpon>Mainform.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SEARCH1.resx">
+      <DependentUpon>SEARCH1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search2.resx">
+      <DependentUpon>Search2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage show details.resx">
+      <DependentUpon>Stage show details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stageshowlist.resx">
+      <DependentUpon>stageshowlist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trainer list.resx">
+      <DependentUpon>trainer list.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trainer.resx">
+      <DependentUpon>Trainer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="akarate1DataSet1.xsc">
+      <DependentUpon>akarate1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="akarate1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>akarate1DataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="akarate1DataSet1.xss">
+      <DependentUpon>akarate1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="karate1DataSet.xsc">
+      <DependentUpon>karate1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet.xss">
+      <DependentUpon>karate1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet1.xsc">
+      <DependentUpon>karate1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet1.xss">
+      <DependentUpon>karate1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet10.xsc">
+      <DependentUpon>karate1DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet10.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet10.xss">
+      <DependentUpon>karate1DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet11.xsc">
+      <DependentUpon>karate1DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet11.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet11.xss">
+      <DependentUpon>karate1DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet12.xsc">
+      <DependentUpon>karate1DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet12.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet12.xss">
+      <DependentUpon>karate1DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet13.xsc">
+      <DependentUpon>karate1DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet13.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet13.xss">
+      <DependentUpon>karate1DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet14.xsc">
+      <DependentUpon>karate1DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet14.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet14.xss">
+      <DependentUpon>karate1DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet15.xsc">
+      <DependentUpon>karate1DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet15.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet15.xss">
+      <DependentUpon>karate1DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet16.xsc">
+      <DependentUpon>karate1DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet16.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet16.xss">
+      <DependentUpon>karate1DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet17.xsc">
+      <DependentUpon>karate1DataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet17.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet17.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet17.xss">
+      <DependentUpon>karate1DataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet2.xsc">
+      <DependentUpon>karate1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>karate1DataSet2.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="karate1DataSet2.xss">
+      <DependentUpon>karate1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet3.xsc">
+      <DependentUpon>karate1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet3.xss">
+      <DependentUpon>karate1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet4.xsc">
+      <DependentUpon>karate1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet4.xss">
+      <DependentUpon>karate1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet5.xsc">
+      <DependentUpon>karate1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet5.xss">
+      <DependentUpon>karate1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet6.xsc">
+      <DependentUpon>karate1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet6.xss">
+      <DependentUpon>karate1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet7.xsc">
+      <DependentUpon>karate1DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet7.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet7.xss">
+      <DependentUpon>karate1DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet8.xsc">
+      <DependentUpon>karate1DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet8.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet8.xss">
+      <DependentUpon>karate1DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet9.xsc">
+      <DependentUpon>karate1DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="karate1DataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>karate1DataSet9.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="karate1DataSet9.xss">
+      <DependentUpon>karate1DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="karate1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

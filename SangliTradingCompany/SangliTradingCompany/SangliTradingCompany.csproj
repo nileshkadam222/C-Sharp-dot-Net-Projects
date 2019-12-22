@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50B30CE8-BEAE-4B8A-848A-A0170FA4F96C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SangliTradingCompany</RootNamespace>
+    <AssemblyName>SangliTradingCompany</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddDryFruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDryFruit.Designer.cs">
+      <DependentUpon>AddDryFruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSpices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSpices.Designer.cs">
+      <DependentUpon>AddSpices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttendenceRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttendenceRecord.Designer.cs">
+      <DependentUpon>AttendenceRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bill2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill2.Designer.cs">
+      <DependentUpon>bill2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="billingreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="billingreport.Designer.cs">
+      <DependentUpon>billingreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerDFOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerDFOrder.Designer.cs">
+      <DependentUpon>CustomerDFOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerReports.Designer.cs">
+      <DependentUpon>CustomerReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSpicesOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSpicesOrder.Designer.cs">
+      <DependentUpon>CustomerSpicesOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteDryfruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteDryfruit.Designer.cs">
+      <DependentUpon>DeleteDryfruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteSpices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteSpices.Designer.cs">
+      <DependentUpon>DeleteSpices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DryFruitReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DryFruitReport.Designer.cs">
+      <DependentUpon>DryFruitReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeAttendenceReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeAttendenceReports.Designer.cs">
+      <DependentUpon>EmployeeAttendenceReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeReports.Designer.cs">
+      <DependentUpon>EmployeeReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeSalary.Designer.cs">
+      <DependentUpon>EmployeeSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmplyeeSalaryReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmplyeeSalaryReports.Designer.cs">
+      <DependentUpon>EmplyeeSalaryReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifiedEmployeeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifiedEmployeeDetail.Designer.cs">
+      <DependentUpon>ModifiedEmployeeDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyCustomerRegist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyCustomerRegist.Designer.cs">
+      <DependentUpon>ModifyCustomerRegist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifySalaryRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifySalaryRecords.Designer.cs">
+      <DependentUpon>ModifySalaryRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifySupplierRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifySupplierRecords.Designer.cs">
+      <DependentUpon>ModifySupplierRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDetailsDryfruit1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderDetailsDryfruit1.Designer.cs">
+      <DependentUpon>OrderDetailsDryfruit1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print.Designer.cs">
+      <DependentUpon>Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressScreen.Designer.cs">
+      <DependentUpon>ProgressScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterEmployee.Designer.cs">
+      <DependentUpon>RegisterEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationOfCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationOfCustomer.Designer.cs">
+      <DependentUpon>RegistrationOfCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationOfSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationOfSupplier.Designer.cs">
+      <DependentUpon>RegistrationOfSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchDryFruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchDryFruit.Designer.cs">
+      <DependentUpon>SearchDryFruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchSalaryRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchSalaryRecords.Designer.cs">
+      <DependentUpon>SearchSalaryRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchSpices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchSpices.Designer.cs">
+      <DependentUpon>SearchSpices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSpicesRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowSpicesRecord.Designer.cs">
+      <DependentUpon>ShowSpicesRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpicesOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpicesOrderDetails.Designer.cs">
+      <DependentUpon>SpicesOrderDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpicesReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpicesReports.Designer.cs">
+      <DependentUpon>SpicesReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierRecords.Designer.cs">
+      <DependentUpon>SupplierRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TodaysAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TodaysAttendence.Designer.cs">
+      <DependentUpon>TodaysAttendence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateDryFruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateDryFruit.Designer.cs">
+      <DependentUpon>UpdateDryFruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateSpices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateSpices.Designer.cs">
+      <DependentUpon>UpdateSpices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCustomerRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCustomerRecords.Designer.cs">
+      <DependentUpon>ViewCustomerRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewDryFruitDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewDryFruitDetails.Designer.cs">
+      <DependentUpon>ViewDryFruitDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSalaryRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewSalaryRecords.Designer.cs">
+      <DependentUpon>ViewSalaryRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSupplierRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewSupplierRecords.Designer.cs">
+      <DependentUpon>ViewSupplierRecords.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddDryFruit.resx">
+      <DependentUpon>AddDryFruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSpices.resx">
+      <DependentUpon>AddSpices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendenceRecord.resx">
+      <DependentUpon>AttendenceRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill2.resx">
+      <DependentUpon>bill2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billingreport.resx">
+      <DependentUpon>billingreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerDFOrder.resx">
+      <DependentUpon>CustomerDFOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerReports.resx">
+      <DependentUpon>CustomerReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSpicesOrder.resx">
+      <DependentUpon>CustomerSpicesOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteDryfruit.resx">
+      <DependentUpon>DeleteDryfruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteSpices.resx">
+      <DependentUpon>DeleteSpices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DryFruitReport.resx">
+      <DependentUpon>DryFruitReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeAttendenceReports.resx">
+      <DependentUpon>EmployeeAttendenceReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeReports.resx">
+      <DependentUpon>EmployeeReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeSalary.resx">
+      <DependentUpon>EmployeeSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmplyeeSalaryReports.resx">
+      <DependentUpon>EmplyeeSalaryReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifiedEmployeeDetail.resx">
+      <DependentUpon>ModifiedEmployeeDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyCustomerRegist.resx">
+      <DependentUpon>ModifyCustomerRegist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifySalaryRecords.resx">
+      <DependentUpon>ModifySalaryRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifySupplierRecords.resx">
+      <DependentUpon>ModifySupplierRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderDetailsDryfruit1.resx">
+      <DependentUpon>OrderDetailsDryfruit1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print.resx">
+      <DependentUpon>Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressScreen.resx">
+      <DependentUpon>ProgressScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterEmployee.resx">
+      <DependentUpon>RegisterEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationOfCustomer.resx">
+      <DependentUpon>RegistrationOfCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationOfSupplier.resx">
+      <DependentUpon>RegistrationOfSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report10.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <EmbeddedResource Include="Report8.rdlc" />
+    <EmbeddedResource Include="SearchDryFruit.resx">
+      <DependentUpon>SearchDryFruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchSalaryRecords.resx">
+      <DependentUpon>SearchSalaryRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchSpices.resx">
+      <DependentUpon>SearchSpices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowSpicesRecord.resx">
+      <DependentUpon>ShowSpicesRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpicesOrderDetails.resx">
+      <DependentUpon>SpicesOrderDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpicesReports.resx">
+      <DependentUpon>SpicesReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierRecords.resx">
+      <DependentUpon>SupplierRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TodaysAttendence.resx">
+      <DependentUpon>TodaysAttendence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateDryFruit.resx">
+      <DependentUpon>UpdateDryFruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateSpices.resx">
+      <DependentUpon>UpdateSpices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCustomerRecords.resx">
+      <DependentUpon>ViewCustomerRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewDryFruitDetails.resx">
+      <DependentUpon>ViewDryFruitDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSalaryRecords.resx">
+      <DependentUpon>ViewSalaryRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSupplierRecords.resx">
+      <DependentUpon>ViewSupplierRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Database1DataSet.xsc">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet.xss">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\canstock16178481.jpg" />
+    <None Include="Resources\canstock11308192.jpg" />
+    <None Include="Resources\dr1.jpg" />
+    <None Include="Resources\canstock2899218.jpg" />
+    <Content Include="Resources\eefd838e-60e7-4876-a7fe-2c5a83f36daa.jpg" />
+    <None Include="Resources\fruit-and-nut-basket-2-pound.jpg" />
+    <Content Include="Resources\images %282%29.jpg" />
+    <Content Include="Resources\images.jpg" />
+    <None Include="Resources\Nine-Beneficial-Spices.jpg" />
+    <Content Include="Resources\Ripple.jpg" />
+    <Content Include="Resources\spices-and-dryfruits-87.jpg" />
+    <Content Include="Resources\untitled.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

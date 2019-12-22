@@ -1,0 +1,492 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HospitalManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillPaymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerAdvanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerDueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerNetValueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.DISCHARGEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.DOCTORSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.INPATIENTSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPEXAMSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPMEDICINEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPSURGERYDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.LABEXAMSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.LoginPassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.MEDICINEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.MEDICINE12DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillPaymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPCustomerAdvanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPCustomerDueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OpdetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPEXAMSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPMEDICINEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.Room_MastDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillPaymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerAdvanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerDueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerNetValueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.DISCHARGERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.DOCTORSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.INPATIENTSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPEXAMSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPMEDICINERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPSURGERYRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.LABEXAMSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.LoginPassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.MEDICINERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.MEDICINE12Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillPaymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPCustomerAdvanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPCustomerDueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OpdetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPEXAMSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPMEDICINERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.Room_MastRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.BillPaymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerAdvanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerDueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.CustomerNetValueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.DISCHARGERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.DOCTORSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.INPATIENTSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPEXAMSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPMEDICINERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.IPSURGERYRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.LABEXAMSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.LoginPassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.MEDICINERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.MEDICINE12RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPBillPaymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPCustomerAdvanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPCustomerDueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OpdetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPEXAMSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.OPMEDICINERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet.Room_MastRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.BillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.BillDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.BillPaymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.CustomerAdvanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.CustomerDueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.CustomerNetValueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.DISCHARGETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.DOCTORSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.INPATIENTSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.IPEXAMSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.IPMEDICINETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.IPSURGERYTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.LABEXAMSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.LoginPassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.MEDICINETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.MEDICINE12TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPBillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPBillDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPBillPaymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPCustomerAdvanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPCustomerDueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OpdetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPEXAMSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.OPMEDICINETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.Room_MastTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HospitalManagementSystem.HospitalManagementDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HospitalManagementSystem.HospitalManagementDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HospitalManagementSystem.HospitalManagementDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.UpdateAll(HospitalManagementSystem.HospitalManagementDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HospitalManagementSystem.HospitalManagementDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:HospitalManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HospitalManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HospitalManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

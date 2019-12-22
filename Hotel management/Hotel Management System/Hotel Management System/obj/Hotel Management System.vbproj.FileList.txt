@@ -1,0 +1,36 @@
+bin\Debug\Hotel Management System.exe
+bin\Debug\Hotel Management System.pdb
+bin\Debug\Hotel Management System.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Hotel_Management_System.Resources.resources
+obj\Debug\Hotel Management System.vbproj.GenerateResource.Cache
+obj\Debug\Hotel Management System.exe
+obj\Debug\Hotel Management System.xml
+obj\Debug\Hotel Management System.pdb
+obj\Debug\Hotel_Management_System.Form1.resources
+obj\Debug\Hotel_Management_System.RptBooking.rpt
+obj\Debug\Hotel_Management_System.RptCheckIn.rpt
+obj\Debug\Hotel_Management_System.RptCheckOut.rpt
+obj\Debug\Hotel_Management_System.fChangeUser.resources
+obj\Debug\Hotel_Management_System.fCheckOut.resources
+obj\Debug\Hotel_Management_System.fEditBooking.resources
+obj\Debug\Hotel_Management_System.fEditCheckIn.resources
+obj\Debug\Hotel_Management_System.fOption.resources
+obj\Debug\Hotel_Management_System.Form2.resources
+obj\Debug\Hotel_Management_System.Form3.resources
+obj\Debug\Hotel_Management_System.frmCheckIn.resources
+obj\Debug\Hotel_Management_System.frmRoom.resources
+obj\Debug\Hotel_Management_System.fRptBooking.resources
+obj\Debug\Hotel_Management_System.fRptCheckIn.resources
+obj\Debug\Hotel_Management_System.fRptCheckOut.resources
+obj\Debug\Hotel_Management_System.fSearchBooking.resources
+obj\Debug\Hotel_Management_System.fSearchCheckIn.resources
+obj\Debug\Hotel_Management_System.fUser.resources
+obj\Debug\Hotel_Management_System.fViewRoom.resources
+obj\Debug\Hotel_Management_System.Main.resources
+obj\Debug\Hotel_Management_System.RBooking.resources
+obj\Debug\Hotel_Management_System.RCheckIn.resources
+obj\Debug\Hotel_Management_System.RCheckOut.resources
+obj\Debug\Hotel_Management_System.fLogIn.resources
+obj\Debug\Hotel_Management_System.SplashScreen.resources
+obj\Debug\Hotel_Management_System.fExpire.resources
